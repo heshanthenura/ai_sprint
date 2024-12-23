@@ -1,0 +1,1655 @@
+<html class="browser-Firefox platform-Windows wd-scrollbar" lang="en-US"><head>
+<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast SEO plugin. -->
+</head>
+<body class="product-template-default single single-product postid-45881 theme-woodmart woocommerce woocommerce-page woocommerce-js wrapper-full-width woodmart-product-design-default categories-accordion-on woodmart-archive-shop woodmart-ajax-shop-on offcanvas-sidebar-mobile offcanvas-sidebar-tablet sticky-toolbar-on wd-sticky-btn-on dropdowns-color-light elementor-default elementor-kit-7 e--ua-firefox" data-elementor-device-mode="tablet">
+<div class="website-wrapper">
+<header class="whb-header whb-header_487924 whb-scroll-stick whb-sticky-real">
+<div class="whb-main-header">
+<div class="whb-row whb-general-header whb-sticky-row whb-with-bg whb-without-border whb-color-light whb-flex-equal-sides">
+<div class="container">
+<div class="whb-flex-row whb-general-header-inner">
+<div class="whb-column whb-col-left whb-visible-lg">
+<div class="site-logo">
+<a aria-label="Site logo" class="wd-logo wd-main-logo" href="https://appleasia.lk/" rel="home">
+<img alt="Apple Asia" src="https://appleasia.lk/wp-content/uploads/2024/09/Apple-Asia-Logo-Gold-Transparent.webp" style="max-width: 180px;"/> </a>
+</div>
+</div>
+<div class="whb-column whb-col-center whb-visible-lg">
+<div aria-label="Secondary navigation" class="wd-header-nav wd-header-secondary-nav wd-inline wd-with-overlay" role="navigation">
+<ul class="menu wd-nav wd-nav-secondary wd-style-underline wd-gap-s" id="menu-mine-menu-systo-update"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2797 item-level-0 menu-simple-dropdown wd-event-hover" id="menu-item-2797"><a class="woodmart-nav-link" href="https://appleasia.lk/"><span class="nav-link-text">Home</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2537 item-level-0 menu-mega-dropdown wd-event-hover menu-item-has-children dropdown-with-height" id="menu-item-2537" style="--wd-dropdown-height: 110px;--wd-dropdown-width: 1700px;--wd-dropdown-padding: 0px;"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/iphone/"><span class="nav-link-text">iPhone</span></a>
+<div class="wd-dropdown-menu wd-dropdown wd-design-full-width color-scheme-light">
+<div class="container">
+<div class="elementor elementor-43933" data-elementor-id="43933" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-66eec28 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="66eec28" data-settings='{"background_background":"classic"}'>
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-5a022cc e-con-full e-grid e-con e-child" data-element_type="container" data-id="5a022cc">
+<div class="elementor-element elementor-element-1435788 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="1435788" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-16-pro-max/">
+<img alt="" class="attachment-large size-large wp-image-45039" fetchpriority="high" height="1024" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-21.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-dc5af35 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="dc5af35" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-16-pro/">
+<img alt="" class="attachment-large size-large wp-image-43993" height="1024" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-13.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-328ca23 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="328ca23" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-16-plus/">
+<img alt="" class="attachment-large size-large wp-image-45041" height="1024" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-2-14.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-bbe8c9b e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bbe8c9b" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-16-series/">
+<img alt="" class="attachment-large size-large wp-image-43994" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-1-6.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-68e3e99 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="68e3e99" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-15-pro-max/">
+<img alt="" class="attachment-large size-large wp-image-45040" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-1-14.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-21de9cd e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="21de9cd" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-15-pro/">
+<img alt="" class="attachment-large size-large wp-image-45043" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-4-12.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-e11ef6e e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="e11ef6e" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-15-plus/">
+<img alt="" class="attachment-large size-large wp-image-45042" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-3-12.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-b18aff6 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="b18aff6" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-15/">
+<img alt="" class="attachment-large size-large wp-image-43995" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-2-6.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-bb082bc e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bb082bc" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-14/">
+<img alt="" class="attachment-large size-large wp-image-43996" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-3-5.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-9593181 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="9593181" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/iphone/iphone-13/">
+<img alt="" class="attachment-large size-large wp-image-43997" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-4-5.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-f393033 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="f393033" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product/iphone-11/">
+<img alt="" class="attachment-full size-full wp-image-43999" height="76" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-6-2.svg" width="55"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-bcc42f9 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bcc42f9" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/wp-admin/term.php?taxonomy=product_cat&amp;tag_ID=17&amp;post_type=product&amp;wp_http_referer=%2Fwp-admin%2Fedit-tags.php%3Ftaxonomy%3Dproduct_cat%26post_type%3Dproduct%26paged%3D4">
+<img alt="" class="attachment-large size-large wp-image-44000" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-7-2.svg" width="1024"/> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2538 item-level-0 menu-mega-dropdown wd-event-hover menu-item-has-children dropdown-with-height" id="menu-item-2538" style="--wd-dropdown-height: 110px;--wd-dropdown-padding: 0px;"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/mac/"><span class="nav-link-text">Mac</span></a>
+<div class="wd-dropdown-menu wd-dropdown wd-design-full-width color-scheme-light">
+<div class="container">
+<div class="elementor elementor-2885" data-elementor-id="2885" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-66eec28 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="66eec28">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-5a022cc e-con-full e-grid e-con e-child" data-element_type="container" data-id="5a022cc">
+<div class="elementor-element elementor-element-328ca23 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="328ca23" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/mac/macbook-pro/">
+<img alt="" class="attachment-large size-large wp-image-44044" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-1-7.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-1435788 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="1435788" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/mac/macbook-air/">
+<img alt="" class="attachment-large size-large wp-image-44042" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-14.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-bb082bc e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bb082bc" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/mac/mac-mini/">
+<img alt="" class="attachment-large size-large wp-image-44046" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-3-6.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-68e3e99 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="68e3e99" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/mac/imac/">
+<img alt="" class="attachment-large size-large wp-image-44045" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-2-7.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-9593181 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="9593181" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/mac/mac-studio/">
+<img alt="" class="attachment-large size-large wp-image-44047" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-4-6.svg" width="1024"/> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2539 item-level-0 menu-mega-dropdown wd-event-hover menu-item-has-children dropdown-with-height" id="menu-item-2539" style="--wd-dropdown-height: 110px;--wd-dropdown-padding: 0px;"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/ipad/"><span class="nav-link-text">iPad</span></a>
+<div class="wd-dropdown-menu wd-dropdown wd-design-full-width color-scheme-light">
+<div class="container">
+<div class="elementor elementor-2923" data-elementor-id="2923" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-66eec28 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="66eec28">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-5a022cc e-con-full e-grid e-con e-child" data-element_type="container" data-id="5a022cc">
+<div class="elementor-element elementor-element-68e3e99 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="68e3e99" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/ipad/ipad-ipad/">
+<img alt="" class="attachment-large size-large wp-image-44065" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-2-8.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-328ca23 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="328ca23" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/ipad/ipad-air/">
+<img alt="" class="attachment-large size-large wp-image-44064" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-1-8.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-1435788 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="1435788" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/ipad/ipad-pro/">
+<img alt="" class="attachment-large size-large wp-image-44063" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-15.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-bb082bc e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bb082bc" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/ipad/ipad-mini/">
+<img alt="" class="attachment-large size-large wp-image-44066" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-3-7.svg" width="1024"/> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2540 item-level-0 menu-mega-dropdown wd-event-hover menu-item-has-children dropdown-with-height" id="menu-item-2540" style="--wd-dropdown-height: 110px;--wd-dropdown-padding: 0px;"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/apple-watch/"><span class="nav-link-text">Watch</span></a>
+<div class="wd-dropdown-menu wd-dropdown wd-design-full-width color-scheme-light">
+<div class="container">
+<div class="elementor elementor-2977" data-elementor-id="2977" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-66eec28 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="66eec28">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-5a022cc e-con-full e-grid e-con e-child" data-element_type="container" data-id="5a022cc">
+<div class="elementor-element elementor-element-bb082bc e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bb082bc" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/apple-watch/apple-watch-ultra-2/">
+<img alt="" class="attachment-large size-large wp-image-44077" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-1-9.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-96f8db1 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="96f8db1" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/apple-watch/apple-watch-ultra/">
+<img alt="" class="attachment-large size-large wp-image-45116" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-25.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-9593181 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="9593181" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/apple-watch/apple-watch-series-10/">
+<img alt="" class="attachment-large size-large wp-image-44076" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-16.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-1196dfd e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="1196dfd" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/apple-watch/apple-watch-series-9/">
+<img alt="" class="attachment-large size-large wp-image-45117" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-1-18.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-68e3e99 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="68e3e99" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/apple-watch/apple-watch-se/">
+<img alt="" class="attachment-large size-large wp-image-44078" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-2-9.svg" width="1024"/> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2542 item-level-0 menu-mega-dropdown wd-event-hover menu-item-has-children dropdown-with-height" id="menu-item-2542" style="--wd-dropdown-height: 110px;--wd-dropdown-padding: 0px;"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/airpods/"><span class="nav-link-text">AirPods</span></a>
+<div class="wd-dropdown-menu wd-dropdown wd-design-full-width color-scheme-light">
+<div class="container">
+<div class="elementor elementor-3017" data-elementor-id="3017" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-66eec28 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="66eec28">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-5a022cc e-con-full e-grid e-con e-child" data-element_type="container" data-id="5a022cc">
+<div class="elementor-element elementor-element-bb082bc e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bb082bc" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/airpods/">
+<img alt="" class="attachment-large size-large wp-image-44088" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-17.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-9593181 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="9593181" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/airpods/">
+<img alt="" class="attachment-large size-large wp-image-44089" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-1-10.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-84aa869 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="84aa869" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/airpods/airpods-max/">
+<img alt="" class="attachment-large size-large wp-image-44090" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-2-10.svg" width="1024"/> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2543 item-level-0 menu-simple-dropdown wd-event-hover" id="menu-item-2543"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/apple-vision-pro/"><span class="nav-link-text">Vision</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2783 item-level-0 menu-mega-dropdown wd-event-hover menu-item-has-children dropdown-with-height" id="menu-item-2783" style="--wd-dropdown-height: 110px;--wd-dropdown-padding: 0px;"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/tv-home/"><span class="nav-link-text">Tv &amp; Home</span></a>
+<div class="wd-dropdown-menu wd-dropdown wd-design-full-width color-scheme-light">
+<div class="container">
+<div class="elementor elementor-3027" data-elementor-id="3027" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-66eec28 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="66eec28">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-5a022cc e-con-full e-grid e-con e-child" data-element_type="container" data-id="5a022cc">
+<div class="elementor-element elementor-element-bb082bc e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bb082bc" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/tv-home/apple-tv-4k/">
+<img alt="" class="attachment-large size-large wp-image-44108" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-18.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-9593181 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="9593181" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/tv-home/apple-tv/">
+<img alt="" class="attachment-large size-large wp-image-44110" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-2-11.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-84aa869 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="84aa869" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/tv-home/homepod-tv-home/">
+<img alt="" class="attachment-large size-large wp-image-44111" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-3-9.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-6c05fa7 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="6c05fa7" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/tv-home/homepod-mini/">
+<img alt="" class="attachment-large size-large wp-image-44112" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-4-9.svg" width="1024"/> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2544 item-level-0 menu-mega-dropdown wd-event-hover menu-item-has-children dropdown-with-height" id="menu-item-2544" style="--wd-dropdown-height: 110px;--wd-dropdown-padding: 0px;"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/accessories/"><span class="nav-link-text">Accessories</span></a>
+<div class="wd-dropdown-menu wd-dropdown wd-design-full-width color-scheme-light">
+<div class="container">
+<div class="elementor elementor-45124" data-elementor-id="45124" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-66eec28 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="66eec28">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-5a022cc e-con-full e-grid e-con e-child" data-element_type="container" data-id="5a022cc">
+<div class="elementor-element elementor-element-bb082bc e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="bb082bc" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/airtag/">
+<img alt="" class="attachment-large size-large wp-image-44001" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-8-2.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-9593181 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="9593181" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/apple-pencil/">
+<img alt="" class="attachment-large size-large wp-image-45132" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-1-20.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-84aa869 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="84aa869" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/accessories/iphone-accessories/">
+<img alt="" class="attachment-large size-large wp-image-45131" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-27.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-6c05fa7 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="6c05fa7" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/accessories/ipad-accessories/">
+<img alt="" class="attachment-large size-large wp-image-45133" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-2-16.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-b821d86 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="b821d86" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/accessories/apple-watch-accessories/">
+<img alt="" class="attachment-large size-large wp-image-45134" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-3-13.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-9d2c135 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="9d2c135" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/accessories/mac-accessories/">
+<img alt="" class="attachment-large size-large wp-image-45135" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-21-2.svg" width="1024"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-811e036 e-transform elementor-widget elementor-widget-image" data-element_type="widget" data-id="811e036" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":-5,"sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://appleasia.lk/product-category/accessories/smart-watch-accessories/">
+<img alt="" class="attachment-large size-large wp-image-45143" height="1024" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Item-→-Link-10-2.svg" width="1024"/> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48653 item-level-0 menu-simple-dropdown wd-event-hover" id="menu-item-48653"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/iphone-pre-owned-used/"><span class="nav-link-text">Pre Owned iPhones</span></a></li>
+</ul></div><!--END MAIN-NAV-->
+</div>
+<div class="whb-column whb-col-right whb-visible-lg">
+<div class="wd-header-search wd-tools-element wd-design-1 wd-style-icon wd-display-full-screen whb-duljtjrl87kj7pmuut6b" title="Search">
+<a aria-label="Search" href="#" rel="nofollow">
+<span class="wd-tools-icon">
+</span>
+<span class="wd-tools-text">
+				Search			</span>
+</a>
+</div>
+<div class="wd-header-wishlist wd-tools-element wd-style-icon wd-with-count wd-design-2 whb-i8977fqp1lmve3hyjltf" title="My Wishlist">
+<a href="https://appleasia.lk/wishlist/" title="Wishlist products">
+<span class="wd-tools-icon">
+<span class="wd-tools-count">0</span>
+</span>
+<span class="wd-tools-text">
+				Wishlist			</span>
+</a>
+</div>
+<div class="wd-header-cart wd-tools-element wd-design-5 cart-widget-opener whb-5u866sftq6yga790jxf3">
+<a href="https://appleasia.lk/cart/" title="Shopping cart">
+<span class="wd-tools-icon wd-icon-alt">
+<span class="wd-cart-number wd-tools-count">0 <span>items</span></span>
+</span>
+<span class="wd-tools-text">
+<span class="wd-cart-subtotal"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>0.00</bdi></span></span>
+</span>
+</a>
+</div>
+ <div class="wd-header-my-account wd-tools-element wd-event-hover wd-design-1 wd-account-style-icon login-side-opener whb-2b8mjqhbtvxz16jtxdrd">
+<a href="https://appleasia.lk/my-account/" title="My account">
+<span class="wd-tools-icon">
+</span>
+<span class="wd-tools-text">
+				Login / Register			</span>
+</a>
+</div>
+</div>
+<div class="whb-column whb-mobile-left whb-hidden-lg">
+<div class="wd-tools-element wd-header-mobile-nav wd-style-icon wd-design-1 whb-wn5z894j1g5n0yp3eeuz">
+<a aria-label="Open mobile menu" href="#" rel="nofollow">
+<span class="wd-tools-icon">
+</span>
+<span class="wd-tools-text">Menu</span>
+</a>
+</div><!--END wd-header-mobile-nav--></div>
+<div class="whb-column whb-mobile-center whb-hidden-lg">
+<div class="site-logo">
+<a aria-label="Site logo" class="wd-logo wd-main-logo" href="https://appleasia.lk/" rel="home">
+<img alt="Apple Asia" src="https://appleasia.lk/wp-content/uploads/2024/09/Apple-Asia-Logo-Gold-Transparent.webp" style="max-width: 160px;"/> </a>
+</div>
+</div>
+<div class="whb-column whb-mobile-right whb-hidden-lg">
+<div class="wd-header-html"> 
+<div class="elementor elementor-2870" data-elementor-id="2870" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-f3a992d e-flex e-con-boxed e-con e-parent e-lazyloaded" data-element_type="container" data-id="f3a992d">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-8333341 elementor-widget elementor-widget-html" data-element_type="widget" data-id="8333341" data-widget_type="html.default">
+<div class="elementor-widget-container">
+<div class="wd-header-search wd-tools-element wd-design-1 wd-style-icon wd-display-full-screen whb-vvkui82ouy5f7jfst1gx" title="Search">
+<a aria-label="Search" class="wd-inited" href="#" rel="nofollow">
+<span class="wd-tools-icon">
+</span>
+<span class="wd-tools-text">
+				Search			</span>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="main-page-wrapper">
+<!-- MAIN CONTENT AREA -->
+<div class="container">
+<div class="row content-layout-wrapper align-items-start">
+<div class="site-content shop-content-area col-12 wd-builder-on" role="main"> <div class="single-product-page product type-product post-45881 status-publish first instock product_cat-iphone-12 has-post-thumbnail sale taxable shipping-taxable purchasable product-type-variable" id="product-45881">
+<div class="elementor elementor-44327" data-elementor-id="44327" data-elementor-post-type="woodmart_layout" data-elementor-type="wp-post">
+<div class="wd-negative-gap elementor-element elementor-element-1f7173c6 wd-section-stretch e-flex e-con-boxed e-con e-parent e-lazyloaded" data-element_type="container" data-id="1f7173c6" data-settings='{"background_background":"classic"}'>
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-906b0bc e-con-full wd-sticky-offset-100 wd-sticky-container-yes e-flex e-con e-child" data-element_type="container" data-id="906b0bc" style="">
+<div class="elementor-element elementor-element-28947e61 wd-single-gallery elementor-widget-theme-post-content elementor-widget elementor-widget-wd_single_product_gallery" data-element_type="widget" data-id="28947e61" data-widget_type="wd_single_product_gallery.default">
+<div class="elementor-widget-container">
+<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images wd-has-thumb thumbs-position-without images image-action-popup" style="opacity: 1;">
+<div class="wd-carousel-container wd-gallery-images">
+<div class="wd-carousel-inner">
+<div class="product-labels labels-rounded-sm"><span class="onsale product-label">Sale</span></div>
+<figure class="woocommerce-product-gallery__wrapper wd-carousel wd-grid wd-initialized wd-horizontal wd-backface-hidden" style="--wd-col-lg:1;--wd-col-md:1;--wd-col-sm:1;">
+<div class="wd-carousel-wrap" style="cursor: grab;">
+<div class="wd-carousel-item wd-active" style="width: 489px;"><figure class="woocommerce-product-gallery__image" data-thumb="https://appleasia.lk/wp-content/uploads/2024/09/13-5-150x150.webp"><a data-elementor-open-lightbox="no" href="https://appleasia.lk/wp-content/uploads/2024/09/13-5-scaled.webp"><img alt="" class="wp-post-image wp-post-image" data-caption="" data-large_image="https://appleasia.lk/wp-content/uploads/2024/09/13-5-scaled.webp" data-large_image_height="2560" data-large_image_width="2560" data-src="https://appleasia.lk/wp-content/uploads/2024/09/13-5-scaled.webp" decoding="async" height="600" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://appleasia.lk/wp-content/uploads/2024/09/13-5-600x600.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/13-5-600x600.webp 600w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-1024x1024.webp 1024w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-768x768.webp 768w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-1536x1536.webp 1536w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-2048x2048.webp 2048w" title="13-5" width="600"/></a></figure></div>
+<div class="wd-carousel-item wd-slide-next" style="width: 489px;">
+<figure class="woocommerce-product-gallery__image" data-thumb="https://appleasia.lk/wp-content/uploads/2024/09/12-4-150x150.webp">
+<a data-elementor-open-lightbox="no" href="https://appleasia.lk/wp-content/uploads/2024/09/12-4-scaled.webp">
+<img alt="" class="" data-caption="" data-large_image="https://appleasia.lk/wp-content/uploads/2024/09/12-4-scaled.webp" data-large_image_height="2560" data-large_image_width="2560" data-src="https://appleasia.lk/wp-content/uploads/2024/09/12-4-scaled.webp" decoding="async" height="600" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://appleasia.lk/wp-content/uploads/2024/09/12-4-600x600.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/12-4-600x600.webp 600w, https://appleasia.lk/wp-content/uploads/2024/09/12-4-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/12-4-1024x1024.webp 1024w, https://appleasia.lk/wp-content/uploads/2024/09/12-4-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/12-4-768x768.webp 768w, https://appleasia.lk/wp-content/uploads/2024/09/12-4-1536x1536.webp 1536w, https://appleasia.lk/wp-content/uploads/2024/09/12-4-2048x2048.webp 2048w" title="12-4" width="600"/> </a>
+</figure>
+</div>
+<div class="wd-carousel-item" style="width: 489px;">
+<figure class="woocommerce-product-gallery__image" data-thumb="https://appleasia.lk/wp-content/uploads/2024/09/14-3-150x150.webp">
+<a data-elementor-open-lightbox="no" href="https://appleasia.lk/wp-content/uploads/2024/09/14-3-scaled.webp">
+<img alt="" class="" data-caption="" data-large_image="https://appleasia.lk/wp-content/uploads/2024/09/14-3-scaled.webp" data-large_image_height="2560" data-large_image_width="2560" data-src="https://appleasia.lk/wp-content/uploads/2024/09/14-3-scaled.webp" decoding="async" height="600" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://appleasia.lk/wp-content/uploads/2024/09/14-3-600x600.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/14-3-600x600.webp 600w, https://appleasia.lk/wp-content/uploads/2024/09/14-3-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/14-3-1024x1024.webp 1024w, https://appleasia.lk/wp-content/uploads/2024/09/14-3-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/14-3-768x768.webp 768w, https://appleasia.lk/wp-content/uploads/2024/09/14-3-1536x1536.webp 1536w, https://appleasia.lk/wp-content/uploads/2024/09/14-3-2048x2048.webp 2048w" title="14-3" width="600"/> </a>
+</figure>
+</div>
+<div class="wd-carousel-item" style="width: 489px;">
+<figure class="woocommerce-product-gallery__image" data-thumb="https://appleasia.lk/wp-content/uploads/2024/09/15-5-150x150.webp">
+<a data-elementor-open-lightbox="no" href="https://appleasia.lk/wp-content/uploads/2024/09/15-5-scaled.webp">
+<img alt="" class="" data-caption="" data-large_image="https://appleasia.lk/wp-content/uploads/2024/09/15-5-scaled.webp" data-large_image_height="2560" data-large_image_width="2560" data-src="https://appleasia.lk/wp-content/uploads/2024/09/15-5-scaled.webp" decoding="async" height="600" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://appleasia.lk/wp-content/uploads/2024/09/15-5-600x600.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/15-5-600x600.webp 600w, https://appleasia.lk/wp-content/uploads/2024/09/15-5-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/15-5-1024x1024.webp 1024w, https://appleasia.lk/wp-content/uploads/2024/09/15-5-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/15-5-768x768.webp 768w, https://appleasia.lk/wp-content/uploads/2024/09/15-5-1536x1536.webp 1536w, https://appleasia.lk/wp-content/uploads/2024/09/15-5-2048x2048.webp 2048w" title="15-5" width="600"/> </a>
+</figure>
+</div>
+<div class="wd-carousel-item" style="width: 489px;">
+<figure class="woocommerce-product-gallery__image" data-thumb="https://appleasia.lk/wp-content/uploads/2024/09/16-4-150x150.webp">
+<a data-elementor-open-lightbox="no" href="https://appleasia.lk/wp-content/uploads/2024/09/16-4-scaled.webp">
+<img alt="" class="" data-caption="" data-large_image="https://appleasia.lk/wp-content/uploads/2024/09/16-4-scaled.webp" data-large_image_height="2560" data-large_image_width="2560" data-src="https://appleasia.lk/wp-content/uploads/2024/09/16-4-scaled.webp" decoding="async" height="600" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://appleasia.lk/wp-content/uploads/2024/09/16-4-600x600.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/16-4-600x600.webp 600w, https://appleasia.lk/wp-content/uploads/2024/09/16-4-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/16-4-1024x1024.webp 1024w, https://appleasia.lk/wp-content/uploads/2024/09/16-4-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/16-4-768x768.webp 768w, https://appleasia.lk/wp-content/uploads/2024/09/16-4-1536x1536.webp 1536w, https://appleasia.lk/wp-content/uploads/2024/09/16-4-2048x2048.webp 2048w" title="16-4" width="600"/> </a>
+</figure>
+</div>
+<div class="wd-carousel-item" style="width: 489px;">
+<figure class="woocommerce-product-gallery__image" data-thumb="https://appleasia.lk/wp-content/uploads/2024/09/17-6-150x150.webp">
+<a data-elementor-open-lightbox="no" href="https://appleasia.lk/wp-content/uploads/2024/09/17-6-scaled.webp">
+<img alt="" class="" data-caption="" data-large_image="https://appleasia.lk/wp-content/uploads/2024/09/17-6-scaled.webp" data-large_image_height="2560" data-large_image_width="2560" data-src="https://appleasia.lk/wp-content/uploads/2024/09/17-6-scaled.webp" decoding="async" height="600" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://appleasia.lk/wp-content/uploads/2024/09/17-6-600x600.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/17-6-600x600.webp 600w, https://appleasia.lk/wp-content/uploads/2024/09/17-6-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/17-6-1024x1024.webp 1024w, https://appleasia.lk/wp-content/uploads/2024/09/17-6-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/17-6-768x768.webp 768w, https://appleasia.lk/wp-content/uploads/2024/09/17-6-1536x1536.webp 1536w, https://appleasia.lk/wp-content/uploads/2024/09/17-6-2048x2048.webp 2048w" title="17-6" width="600"/> </a>
+</figure>
+</div>
+</div></figure>
+<div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-custom-style wd-icon-1">
+<div class="wd-btn-arrow wd-prev wd-disabled">
+<div class="wd-arrow-inner"></div>
+</div>
+<div class="wd-btn-arrow wd-next">
+<div class="wd-arrow-inner"></div>
+</div>
+</div>
+</div>
+<div class="wd-nav-pagin-wrap text-center wd-style-shape wd-custom-style wd-dynamic">
+<ul class="wd-nav-pagin wd-clickable wd-type-bullets wd-horizontal wd-type-bullets-dynamic" style="width: 100px;"><li class="wd-nav-pagin-item wd-active wd-active-main" style="left: 40px;"><span></span></li><li class="wd-nav-pagin-item wd-active-next" style="left: 40px;"><span></span></li><li class="wd-nav-pagin-item wd-active-next-next" style="left: 40px;"><span></span></li><li class="wd-nav-pagin-item" style="left: 40px;"><span></span></li><li class="wd-nav-pagin-item" style="left: 40px;"><span></span></li><li class="wd-nav-pagin-item" style="left: 40px;"><span></span></li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-42313716 e-con-full e-flex e-con e-child" data-element_type="container" data-id="42313716">
+<div class="elementor-element elementor-element-663acf6a wd-nowrap-md wd-single-breadcrumbs wd-breadcrumbs text-left elementor-widget elementor-widget-wd_wc_breadcrumb" data-element_type="widget" data-id="663acf6a" data-widget_type="wd_wc_breadcrumb.default">
+<div class="elementor-widget-container">
+<nav aria-label="Breadcrumb" class="woocommerce-breadcrumb"> <a class="breadcrumb-link" href="https://appleasia.lk">
+					Home				</a>
+<a class="breadcrumb-link" href="https://appleasia.lk/product-category/iphone/">
+					iPhone				</a>
+<a class="breadcrumb-link breadcrumb-link-last" href="https://appleasia.lk/product-category/iphone/iphone-12/">
+					iPhone 12				</a>
+<span class="breadcrumb-last">
+					iPhone 12				</span>
+</nav> </div>
+</div>
+<div class="elementor-element elementor-element-1713e056 wd-wc-notices elementor-widget elementor-widget-wd_wc_notices" data-element_type="widget" data-id="1713e056" data-widget_type="wd_wc_notices.default">
+<div class="elementor-widget-container">
+<div class="woocommerce-notices-wrapper"></div> </div>
+</div>
+<div class="elementor-element elementor-element-4d5abbfd wd-single-title text-left elementor-widget elementor-widget-wd_single_product_title" data-element_type="widget" data-id="4d5abbfd" data-widget_type="wd_single_product_title.default">
+<div class="elementor-widget-container">
+<h1 class="product_title entry-title wd-entities-title">
+	iPhone 12
+	</h1>
+</div>
+</div>
+<div class="elementor-element elementor-element-7f0ab2e4 wd-single-price text-left elementor-widget elementor-widget-wd_single_product_price" data-element_type="widget" data-id="7f0ab2e4" data-widget_type="wd_single_product_price.default">
+<div class="elementor-widget-container">
+<p class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>169,900.00</bdi></span></del> <span class="screen-reader-text">Original price was: LKR 169,900.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>154,900.00</bdi></span></ins><span class="screen-reader-text">Current price is: LKR 154,900.00.</span></p>
+</div>
+</div>
+<div class="elementor-element elementor-element-1935e2ad wd-btn-design-full wd-single-add-cart text-left wd-design-default wd-swatch-layout-default wd-stock-status-off elementor-widget elementor-widget-wd_single_product_add_to_cart" data-element_type="widget" data-id="1935e2ad" data-widget_type="wd_single_product_add_to_cart.default">
+<div class="elementor-widget-container">
+<form action="https://appleasia.lk/product/iphone-12-2/" class="variations_form cart wd-swatches-name wd-price-outside wd-reset-side-lg wd-reset-bottom-md wd-label-top-lg wd-label-top-md" current-image="" data-product_id="45881" data-product_variations='[{"attributes":{"attribute_pa_storage":"128gb","attribute_pa_color":"black"},"availability_html":"","backorders_allowed":false,"dimensions":{"length":"","width":"","height":""},"dimensions_html":"N\/A","display_price":154900,"display_regular_price":169900,"image":{"title":"17-6","caption":"","url":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-scaled.webp","alt":"17-6","src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-600x600.webp","srcset":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-600x600.webp 600w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-300x300.webp 300w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-1024x1024.webp 1024w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-150x150.webp 150w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-768x768.webp 768w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-1536x1536.webp 1536w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-2048x2048.webp 2048w","sizes":"(max-width: 600px) 100vw, 600px","full_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-scaled.webp","full_src_w":2560,"full_src_h":2560,"gallery_thumbnail_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-150x150.webp","gallery_thumbnail_src_w":150,"gallery_thumbnail_src_h":150,"thumb_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/17-6-300x300.webp","thumb_src_w":300,"thumb_src_h":300,"src_w":600,"src_h":600},"image_id":45887,"is_downloadable":false,"is_in_stock":true,"is_purchasable":true,"is_sold_individually":"no","is_virtual":false,"max_qty":"","min_qty":1,"price_html":"","sku":"","variation_description":"","variation_id":45901,"variation_is_active":true,"variation_is_visible":true,"weight":"","weight_html":"N\/A"},{"attributes":{"attribute_pa_storage":"128gb","attribute_pa_color":"blue"},"availability_html":"","backorders_allowed":false,"dimensions":{"length":"","width":"","height":""},"dimensions_html":"N\/A","display_price":154900,"display_regular_price":169900,"image":{"title":"16-4","caption":"","url":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-scaled.webp","alt":"16-4","src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-600x600.webp","srcset":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-600x600.webp 600w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-300x300.webp 300w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-1024x1024.webp 1024w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-150x150.webp 150w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-768x768.webp 768w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-1536x1536.webp 1536w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-2048x2048.webp 2048w","sizes":"(max-width: 600px) 100vw, 600px","full_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-scaled.webp","full_src_w":2560,"full_src_h":2560,"gallery_thumbnail_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-150x150.webp","gallery_thumbnail_src_w":150,"gallery_thumbnail_src_h":150,"thumb_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/16-4-300x300.webp","thumb_src_w":300,"thumb_src_h":300,"src_w":600,"src_h":600},"image_id":45886,"is_downloadable":false,"is_in_stock":true,"is_purchasable":true,"is_sold_individually":"no","is_virtual":false,"max_qty":"","min_qty":1,"price_html":"","sku":"","variation_description":"","variation_id":45902,"variation_is_active":true,"variation_is_visible":true,"weight":"","weight_html":"N\/A"},{"attributes":{"attribute_pa_storage":"128gb","attribute_pa_color":"green"},"availability_html":"","backorders_allowed":false,"dimensions":{"length":"","width":"","height":""},"dimensions_html":"N\/A","display_price":154900,"display_regular_price":169900,"image":{"title":"15-5","caption":"","url":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-scaled.webp","alt":"15-5","src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-600x600.webp","srcset":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-600x600.webp 600w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-300x300.webp 300w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-1024x1024.webp 1024w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-150x150.webp 150w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-768x768.webp 768w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-1536x1536.webp 1536w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-2048x2048.webp 2048w","sizes":"(max-width: 600px) 100vw, 600px","full_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-scaled.webp","full_src_w":2560,"full_src_h":2560,"gallery_thumbnail_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-150x150.webp","gallery_thumbnail_src_w":150,"gallery_thumbnail_src_h":150,"thumb_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/15-5-300x300.webp","thumb_src_w":300,"thumb_src_h":300,"src_w":600,"src_h":600},"image_id":45885,"is_downloadable":false,"is_in_stock":true,"is_purchasable":true,"is_sold_individually":"no","is_virtual":false,"max_qty":"","min_qty":1,"price_html":"","sku":"","variation_description":"","variation_id":45903,"variation_is_active":true,"variation_is_visible":true,"weight":"","weight_html":"N\/A"},{"attributes":{"attribute_pa_storage":"128gb","attribute_pa_color":"purple"},"availability_html":"","backorders_allowed":false,"dimensions":{"length":"","width":"","height":""},"dimensions_html":"N\/A","display_price":154900,"display_regular_price":169900,"image":{"title":"14-3","caption":"","url":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-scaled.webp","alt":"14-3","src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-600x600.webp","srcset":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-600x600.webp 600w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-300x300.webp 300w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-1024x1024.webp 1024w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-150x150.webp 150w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-768x768.webp 768w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-1536x1536.webp 1536w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-2048x2048.webp 2048w","sizes":"(max-width: 600px) 100vw, 600px","full_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-scaled.webp","full_src_w":2560,"full_src_h":2560,"gallery_thumbnail_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-150x150.webp","gallery_thumbnail_src_w":150,"gallery_thumbnail_src_h":150,"thumb_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/14-3-300x300.webp","thumb_src_w":300,"thumb_src_h":300,"src_w":600,"src_h":600},"image_id":45884,"is_downloadable":false,"is_in_stock":true,"is_purchasable":true,"is_sold_individually":"no","is_virtual":false,"max_qty":"","min_qty":1,"price_html":"","sku":"","variation_description":"","variation_id":45904,"variation_is_active":true,"variation_is_visible":true,"weight":"","weight_html":"N\/A"},{"attributes":{"attribute_pa_storage":"128gb","attribute_pa_color":"red"},"availability_html":"","backorders_allowed":false,"dimensions":{"length":"","width":"","height":""},"dimensions_html":"N\/A","display_price":154900,"display_regular_price":169900,"image":{"title":"12-4","caption":"","url":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-scaled.webp","alt":"12-4","src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-600x600.webp","srcset":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-600x600.webp 600w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-300x300.webp 300w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-1024x1024.webp 1024w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-150x150.webp 150w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-768x768.webp 768w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-1536x1536.webp 1536w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-2048x2048.webp 2048w","sizes":"(max-width: 600px) 100vw, 600px","full_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-scaled.webp","full_src_w":2560,"full_src_h":2560,"gallery_thumbnail_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-150x150.webp","gallery_thumbnail_src_w":150,"gallery_thumbnail_src_h":150,"thumb_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/12-4-300x300.webp","thumb_src_w":300,"thumb_src_h":300,"src_w":600,"src_h":600},"image_id":45882,"is_downloadable":false,"is_in_stock":true,"is_purchasable":true,"is_sold_individually":"no","is_virtual":false,"max_qty":"","min_qty":1,"price_html":"","sku":"","variation_description":"","variation_id":45905,"variation_is_active":true,"variation_is_visible":true,"weight":"","weight_html":"N\/A"},{"attributes":{"attribute_pa_storage":"128gb","attribute_pa_color":"white"},"availability_html":"","backorders_allowed":false,"dimensions":{"length":"","width":"","height":""},"dimensions_html":"N\/A","display_price":154900,"display_regular_price":169900,"image":{"title":"13-5","caption":"","url":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-scaled.webp","alt":"13-5","src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-600x600.webp","srcset":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-600x600.webp 600w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-300x300.webp 300w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-1024x1024.webp 1024w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-150x150.webp 150w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-768x768.webp 768w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-1536x1536.webp 1536w, https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-2048x2048.webp 2048w","sizes":"(max-width: 600px) 100vw, 600px","full_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-scaled.webp","full_src_w":2560,"full_src_h":2560,"gallery_thumbnail_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-150x150.webp","gallery_thumbnail_src_w":150,"gallery_thumbnail_src_h":150,"thumb_src":"https:\/\/appleasia.lk\/wp-content\/uploads\/2024\/09\/13-5-300x300.webp","thumb_src_w":300,"thumb_src_h":300,"src_w":600,"src_h":600},"image_id":45883,"is_downloadable":false,"is_in_stock":true,"is_purchasable":true,"is_sold_individually":"no","is_virtual":false,"max_qty":"","min_qty":1,"price_html":"","sku":"","variation_description":"","variation_id":45906,"variation_is_active":true,"variation_is_visible":true,"weight":"","weight_html":"N\/A"}]' enctype="multipart/form-data" method="post">
+<table cellspacing="0" class="variations">
+<tbody>
+<tr>
+<th class="label cell"><label for="pa_storage">Storage</label></th>
+<td class="value cell with-swatches">
+<div class="wd-swatches-product wd-swatches-single wd-bg-style-2 wd-text-style-2 wd-dis-style-3 wd-size-large wd-shape-rounded" data-id="pa_storage">
+<div class="wd-swatch wd-text wd-disabled" data-title="64GB" data-value="64gb" title="64GB">
+<span class="wd-swatch-text">
+														64GB													</span>
+</div>
+<div class="wd-swatch wd-text wd-enabled" data-title="128GB" data-value="128gb" title="128GB">
+<span class="wd-swatch-text">
+														128GB													</span>
+</div>
+</div>
+<select class="" data-attribute_name="attribute_pa_storage" data-show_option_none="yes" id="pa_storage" name="attribute_pa_storage"><option value="">Choose an option</option><option class="attached enabled" value="128gb">128GB</option></select> </td>
+</tr>
+<tr>
+<th class="label cell"><label for="pa_color">Color</label></th>
+<td class="value cell with-swatches">
+<div class="wd-swatches-product wd-swatches-single wd-bg-style-2 wd-text-style-2 wd-dis-style-1 wd-size-m wd-shape-round" data-id="pa_color">
+<div class="wd-swatch wd-bg wd-enabled" data-title="Black" data-value="black" title="Black">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-black-202010.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-black-202010.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-black-202010-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+														Black													</span>
+</div>
+<div class="wd-swatch wd-bg wd-enabled" data-title="Blue" data-value="blue" title="Blue">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/iphone-13-finish-blue-202108.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/iphone-13-finish-blue-202108.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/iphone-13-finish-blue-202108-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+														Blue													</span>
+</div>
+<div class="wd-swatch wd-bg wd-enabled" data-title="Green" data-value="green" title="Green">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/finish-green-202011.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/finish-green-202011.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/finish-green-202011-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+														Green													</span>
+</div>
+<div class="wd-swatch wd-bg wd-enabled" data-title="Purple" data-value="purple" title="Purple">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-purple-202104.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-purple-202104.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-purple-202104-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+														Purple													</span>
+</div>
+<div class="wd-swatch wd-bg wd-enabled" data-title="Red" data-value="red" title="Red">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/finish-red-202209.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/finish-red-202209.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/finish-red-202209-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+														Red													</span>
+</div>
+<div class="wd-swatch wd-bg wd-enabled" data-title="white" data-value="white" title="white">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" decoding="async" height="64" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/MK2E3_SW_COLOR.webp" width="64"/> </span>
+<span class="wd-swatch-text">
+														white													</span>
+</div>
+</div>
+<select class="wd-changes-variation-image" data-attribute_name="attribute_pa_color" data-show_option_none="yes" id="pa_color" name="attribute_pa_color"><option value="">Choose an option</option><option class="attached enabled" value="black">Black</option><option class="attached enabled" value="blue">Blue</option><option class="attached enabled" value="green">Green</option><option class="attached enabled" value="purple">Purple</option><option class="attached enabled" value="red">Red</option><option class="attached enabled" value="white">white</option></select><div class="wd-reset-var"><a class="reset_variations" href="#" style="visibility: hidden;">Clear</a></div> </td>
+</tr>
+</tbody>
+</table>
+<div class="single_variation_wrap">
+<div class="woocommerce-variation single_variation" style="display: none;"></div><div class="woocommerce-variation-add-to-cart variations_button woocommerce-variation-add-to-cart-disabled">
+<div class="quantity">
+<input class="minus" type="button" value="-"/>
+<label class="screen-reader-text" for="quantity_6767aa026a984">iPhone 12 quantity</label>
+<input aria-label="Product quantity" autocomplete="off" class="input-text qty text" id="quantity_6767aa026a984" inputmode="numeric" max="" min="1" name="quantity" placeholder="" step="1" type="number" value="1"/>
+<input class="plus" type="button" value="+"/>
+</div>
+<button class="single_add_to_cart_button button alt disabled wc-variation-selection-needed" type="submit">Add to cart</button>
+<button class="wd-buy-now-btn button alt" id="wd-add-to-cart" name="wd-add-to-cart" type="submit" value="45881">
+				Buy now			</button>
+<input name="add-to-cart" type="hidden" value="45881"/>
+<input name="product_id" type="hidden" value="45881"/>
+<input class="variation_id" name="variation_id" type="hidden" value="0"/>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div class="elementor-element elementor-element-1a9fb3c0 elementor-widget elementor-widget-wd_single_product_visitor_counter" data-element_type="widget" data-id="1a9fb3c0" data-widget_type="wd_single_product_visitor_counter.default">
+<div class="elementor-widget-container">
+<div class="wd-product-count wd-visits-count wd-style-with-bg" data-product-id="45881">
+<span class="wd-count-icon"></span><span class="wd-count-number">1</span>
+<span class="wd-count-msg">People watching this product now!</span>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d4856d3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-element_type="widget" data-id="1d4856d3" data-widget_type="divider.default">
+<div class="elementor-widget-container">
+<div class="elementor-divider">
+<span class="elementor-divider-separator">
+</span>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-0c79d08 wd-single-short-desc text-left elementor-widget elementor-widget-wd_single_product_short_description" data-element_type="widget" data-id="0c79d08" data-widget_type="wd_single_product_short_description.default">
+<div class="elementor-widget-container">
+<div class="woocommerce-product-details__short-description">
+<ul>
+<li>6.1″ Super Retina XDR display</li>
+<li>Aluminum with glass back</li>
+<li>A14 Bionic chip</li>
+<li>6-core CPU</li>
+<li>4-core GPU</li>
+<li>Dual-camera system<br/>
+12MP Main <span class="span-pipe">Ultra Wide</span></li>
+<li>Up to 17 hours video playback</li>
+<li>Lightning<br/>
+Supports USB</li>
+<li>Water resistant to a depth of 6 meters for up to 30 minutes</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-a3ea44e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-element_type="widget" data-id="a3ea44e" data-widget_type="divider.default">
+<div class="elementor-widget-container">
+<div class="elementor-divider">
+<span class="elementor-divider-separator">
+</span>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-36396ac7 wd-layout-grid wd-style-default wd-single-attrs elementor-widget elementor-widget-wd_single_product_additional_info_table" data-element_type="widget" data-id="36396ac7" data-widget_type="wd_single_product_additional_info_table.default">
+<div class="elementor-widget-container">
+<table class="woocommerce-product-attributes shop_attributes">
+<tbody><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_brand">
+<th class="woocommerce-product-attributes-item__label">
+<span class="wd-attr-name">
+<span class="wd-attr-name-label">
+						Brand					</span>
+</span>
+</th>
+<td class="woocommerce-product-attributes-item__value">
+<span class="wd-attr-term">
+<p>Apple</p>
+</span> </td>
+</tr>
+<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_storage">
+<th class="woocommerce-product-attributes-item__label">
+<span class="wd-attr-name">
+<span class="wd-attr-name-label">
+						Storage					</span>
+</span>
+</th>
+<td class="woocommerce-product-attributes-item__value">
+<span class="wd-attr-term">
+<p>64GB</p>
+</span>, <span class="wd-attr-term">
+<p>128GB</p>
+</span> </td>
+</tr>
+<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_color">
+<th class="woocommerce-product-attributes-item__label">
+<span class="wd-attr-name">
+<span class="wd-attr-name-label">
+						Color					</span>
+</span>
+</th>
+<td class="woocommerce-product-attributes-item__value">
+<span class="wd-attr-term">
+<p>Black</p>
+</span>, <span class="wd-attr-term">
+<p>Blue</p>
+</span>, <span class="wd-attr-term">
+<p>Green</p>
+</span>, <span class="wd-attr-term">
+<p>Purple</p>
+</span>, <span class="wd-attr-term">
+<p>Red</p>
+</span>, <span class="wd-attr-term">
+<p>white</p>
+</span> </td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wd-negative-gap elementor-element elementor-element-7a84be3d e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="7a84be3d">
+<div class="e-con-inner">
+</div>
+</div>
+<div class="wd-negative-gap elementor-element elementor-element-687d5c40 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="687d5c40">
+<div class="e-con-inner">
+</div>
+</div>
+<div class="wd-negative-gap elementor-element elementor-element-4dec6dec e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="4dec6dec">
+<div class="e-con-inner">
+</div>
+</div>
+<div class="wd-negative-gap elementor-element elementor-element-619665b4 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="619665b4">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-192a8f7b wd-width-100 elementor-widget elementor-widget-wd_products" data-element_type="widget" data-id="192a8f7b" data-widget_type="wd_products.default">
+<div class="elementor-widget-container">
+<div class="wd-carousel-container with-title wd-products-element wd-products products wd-products-with-bg wd-stretch-cont-lg" id="carousel-954">
+<h4 class="wd-el-title title slider-title element-title"><span>Recently Viewed</span></h4>
+<div class="wd-carousel-inner">
+<div class="wd-carousel wd-grid wd-stretch-cont-lg wd-initialized wd-horizontal wd-watch-progress wd-backface-hidden" data-scroll_per_page="yes" style="--wd-col-lg:4;--wd-col-md:3;--wd-col-sm:1.2;--wd-gap-lg:20px;--wd-gap-sm:10px;">
+<div class="wd-carousel-wrap">
+<div class="wd-carousel-item wd-slide-visible wd-full-visible wd-active" style="width: 292px;">
+<div class="wd-product wd-with-labels wd-hover-tiled product-grid-item product type-product post-16 status-publish instock product_cat-iphone product_cat-iphone-11 has-post-thumbnail sale taxable shipping-taxable purchasable product-type-variable has-default-attributes" data-id="16" data-loop="1">
+<div class="product-wrapper">
+<div class="product-element-top wd-quick-shop">
+<a class="product-image-link" href="https://appleasia.lk/product/iphone-11/">
+<div class="product-labels labels-rounded-sm"><span class="onsale product-label">Sale</span></div><img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-300x300.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10.jpg 1024w" width="300"/> </a>
+<div class="hover-img">
+<a aria-label="Product image" href="https://appleasia.lk/product/iphone-11/">
+<img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-300x300.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13.jpg 1024w" width="300"/> </a>
+</div>
+<div class="wd-buttons wd-pos-r-t">
+<div class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon"><a aria-describedby="woocommerce_loop_add_to_cart_link_describedby_16" aria-label="Select options for “iPhone 11”" class="button product_type_variable add_to_cart_button add-to-cart-loop" data-product_id="16" data-product_sku="" data-quantity="1" href="https://appleasia.lk/product/iphone-11/" rel="nofollow"><span>Select options</span></a><span class="screen-reader-text" id="woocommerce_loop_add_to_cart_link_describedby_16">
+	This product has multiple variants. The options may be chosen on the product page</span>
+</div>
+<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+<a class="open-quick-view quick-view-button" data-id="16" href="https://appleasia.lk/product/iphone-11/" rel="nofollow">Quick view</a>
+</div>
+<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+<a data-added-text="Compare products" data-id="16" href="https://appleasia.lk/product/iphone-11/" rel="nofollow">
+<span>Compare</span>
+</a>
+</div>
+<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+<a class="" data-added-text="Browse Wishlist" data-key="f97f3db083" data-product-id="16" href="https://appleasia.lk/wishlist/" rel="nofollow">
+<span>Add to wishlist</span>
+</a>
+</div>
+</div>
+</div>
+<div class="product-element-bottom">
+<h3 class="wd-entities-title"><a href="https://appleasia.lk/product/iphone-11/">iPhone 11</a></h3> <div class="wd-swatches-grid wd-swatches-product wd-swatches-attr wd-bg-style-2 wd-text-style-2 wd-dis-style-1 wd-size-m wd-shape-round"> <div class="wd-swatch wd-tooltip wd-bg" data-image-sizes="(max-width: 600px) 100vw, 600px" data-image-src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-600x600.jpg" data-image-srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-10.jpg 1024w">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-full size-full" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-black-202010.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-black-202010.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-black-202010-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+					Black				</span>
+</div>
+<div class="wd-swatch wd-tooltip wd-bg variation-out-of-stock" data-image-sizes="(max-width: 600px) 100vw, 600px" data-image-src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-16-600x600.jpg" data-image-srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-16-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-16-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-16-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-16-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-16.jpg 1024w">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-full size-full" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/finish-green-202011.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/finish-green-202011.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/finish-green-202011-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+					Green				</span>
+</div>
+<div class="wd-swatch wd-tooltip wd-bg variation-out-of-stock" data-image-sizes="(max-width: 600px) 100vw, 600px" data-image-src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-600x600.jpg" data-image-srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-13.jpg 1024w">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-full size-full" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-purple-202104.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-purple-202104.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-12-Color-purple-202104-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+					Purple				</span>
+</div>
+<div class="wd-swatch wd-tooltip wd-bg variation-out-of-stock" data-image-sizes="(max-width: 600px) 100vw, 600px" data-image-src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-1-600x600.jpg" data-image-srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-1-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-1-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-1-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-1-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-1.jpg 1024w">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-full size-full" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/finish-red-202209.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/finish-red-202209.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/finish-red-202209-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+					Red				</span>
+</div>
+<div class="wd-swatch wd-tooltip wd-bg" data-image-sizes="(max-width: 600px) 100vw, 600px" data-image-src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-4-600x600.jpg" data-image-srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-4-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-4-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-4-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-4-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-4.jpg 1024w">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-full size-full" decoding="async" height="64" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/MK2E3_SW_COLOR.webp" width="64"/> </span>
+<span class="wd-swatch-text">
+					white				</span>
+</div>
+<div class="wd-swatch wd-tooltip wd-bg variation-out-of-stock" data-image-sizes="(max-width: 600px) 100vw, 600px" data-image-src="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-7-600x600.jpg" data-image-srcset="https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-7-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-7-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-7-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-7-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/iPhone-11-All-Colours-7.jpg 1024w">
+<span class="wd-swatch-bg" style="">
+<img alt="" class="attachment-full size-full" decoding="async" height="204" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://appleasia.lk/wp-content/uploads/2024/09/homepod-mini-finish-yellow-202110.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/homepod-mini-finish-yellow-202110.webp 204w, https://appleasia.lk/wp-content/uploads/2024/09/homepod-mini-finish-yellow-202110-150x150.webp 150w" width="204"/> </span>
+<span class="wd-swatch-text">
+					Yellow				</span>
+</div>
+</div>
+<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>134,900.00</bdi></span> – <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>152,900.00</bdi></span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- end #carousel-954 -->
+</div>
+</div>
+</div>
+</div>
+<div class="wd-negative-gap elementor-element elementor-element-7a992f6a e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="7a992f6a">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-4164b8ec wd-width-100 elementor-widget elementor-widget-wd_products" data-element_type="widget" data-id="4164b8ec" data-widget_type="wd_products.default">
+<div class="elementor-widget-container">
+<div class="wd-carousel-container with-title wd-products-element wd-products products wd-products-with-bg" id="carousel-395">
+<h4 class="wd-el-title title slider-title element-title"><span>Most Popular</span></h4>
+<div class="wd-carousel-inner">
+<div class="wd-carousel wd-grid wd-initialized wd-horizontal wd-watch-progress wd-backface-hidden" data-scroll_per_page="yes" style="--wd-col-lg:5;--wd-col-md:4;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;--wd-carousel-overflow: visible">
+<div class="wd-carousel-wrap">
+<div class="wd-carousel-item wd-slide-visible wd-full-visible wd-active" style="width: 219px;">
+<div class="wd-product wd-with-labels wd-hover-tiled product-grid-item product type-product post-340 status-publish instock product_cat-accessories has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple" data-id="340" data-loop="1">
+<div class="product-wrapper">
+<div class="product-element-top wd-quick-shop">
+<a class="product-image-link" href="https://appleasia.lk/product/magsafe-charger/">
+<div class="product-labels labels-rounded-sm"><span class="onsale product-label">Sale</span></div><img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-1-300x300.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-1-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-1-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-1-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-1-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-1.jpg 1024w" width="300"/> </a>
+<div class="hover-img">
+<a aria-label="Product image" href="https://appleasia.lk/product/magsafe-charger/">
+<img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-2-300x300.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-2-300x300.jpg 300w, https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-2-150x150.jpg 150w, https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-2-600x600.jpg 600w, https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-2-768x768.jpg 768w, https://appleasia.lk/wp-content/uploads/2024/09/MagSafe-Charger-2.jpg 1024w" width="300"/> </a>
+</div>
+<div class="wd-buttons wd-pos-r-t">
+<div class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon"><a aria-describedby="woocommerce_loop_add_to_cart_link_describedby_340" aria-label="Add to cart: “MagSafe Charger”" class="button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="340" data-product_sku="" data-quantity="1" data-success_message="“MagSafe Charger” has been added to your cart" href="?add-to-cart=340" rel="nofollow"><span>Add to cart</span></a><span class="screen-reader-text" id="woocommerce_loop_add_to_cart_link_describedby_340">
+</span>
+</div>
+<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+<a class="open-quick-view quick-view-button" data-id="340" href="https://appleasia.lk/product/magsafe-charger/" rel="nofollow">Quick view</a>
+</div>
+<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+<a data-added-text="Compare products" data-id="340" href="https://appleasia.lk/product/magsafe-charger/" rel="nofollow">
+<span>Compare</span>
+</a>
+</div>
+<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+<a class="" data-added-text="Browse Wishlist" data-key="f97f3db083" data-product-id="340" href="https://appleasia.lk/wishlist/" rel="nofollow">
+<span>Add to wishlist</span>
+</a>
+</div>
+</div>
+</div>
+<div class="product-element-bottom">
+<h3 class="wd-entities-title"><a href="https://appleasia.lk/product/magsafe-charger/">MagSafe Charger</a></h3>
+<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>22,900.00</bdi></span></del> <span class="screen-reader-text">Original price was: LKR 22,900.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>15,900.00</bdi></span></ins><span class="screen-reader-text">Current price is: LKR 15,900.00.</span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="wd-carousel-item wd-slide-visible wd-full-visible wd-slide-next" style="width: 219px;">
+<div class="wd-product wd-with-labels wd-hover-tiled product-grid-item product type-product post-2335 status-publish instock product_cat-apple-pencil has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple" data-id="2335" data-loop="2">
+<div class="product-wrapper">
+<div class="product-element-top wd-quick-shop">
+<a class="product-image-link" href="https://appleasia.lk/product/apple-pencil-pro/">
+<div class="product-labels labels-rounded-sm"><span class="onsale product-label">Sale</span></div><img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/MX2D3-300x300.jpeg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/MX2D3-300x300.jpeg 300w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3-150x150.jpeg 150w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3-600x600.jpeg 600w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3-1024x1024.jpeg 1024w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3-768x768.jpeg 768w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3-1536x1536.jpeg 1536w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3.jpeg 1600w" width="300"/> </a>
+<div class="hover-img">
+<a aria-label="Product image" href="https://appleasia.lk/product/apple-pencil-pro/">
+<img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/MX2D3_AV1-300x300.jpeg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/MX2D3_AV1-300x300.jpeg 300w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3_AV1-150x150.jpeg 150w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3_AV1-600x600.jpeg 600w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3_AV1-1024x1024.jpeg 1024w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3_AV1-768x768.jpeg 768w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3_AV1-1536x1536.jpeg 1536w, https://appleasia.lk/wp-content/uploads/2024/09/MX2D3_AV1.jpeg 1600w" width="300"/> </a>
+</div>
+<div class="wd-buttons wd-pos-r-t">
+<div class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon"><a aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2335" aria-label="Add to cart: “Apple Pencil Pro”" class="button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="2335" data-product_sku="" data-quantity="1" data-success_message="“Apple Pencil Pro” has been added to your cart" href="?add-to-cart=2335" rel="nofollow"><span>Add to cart</span></a><span class="screen-reader-text" id="woocommerce_loop_add_to_cart_link_describedby_2335">
+</span>
+</div>
+<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+<a class="open-quick-view quick-view-button" data-id="2335" href="https://appleasia.lk/product/apple-pencil-pro/" rel="nofollow">Quick view</a>
+</div>
+<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+<a data-added-text="Compare products" data-id="2335" href="https://appleasia.lk/product/apple-pencil-pro/" rel="nofollow">
+<span>Compare</span>
+</a>
+</div>
+<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+<a class="" data-added-text="Browse Wishlist" data-key="f97f3db083" data-product-id="2335" href="https://appleasia.lk/wishlist/" rel="nofollow">
+<span>Add to wishlist</span>
+</a>
+</div>
+</div>
+</div>
+<div class="product-element-bottom">
+<h3 class="wd-entities-title"><a href="https://appleasia.lk/product/apple-pencil-pro/">Apple Pencil Pro</a></h3>
+<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>52,900.00</bdi></span></del> <span class="screen-reader-text">Original price was: LKR 52,900.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>44,900.00</bdi></span></ins><span class="screen-reader-text">Current price is: LKR 44,900.00.</span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="wd-carousel-item wd-slide-visible wd-full-visible" style="width: 219px;">
+<div class="wd-product wd-hover-tiled product-grid-item product type-product post-1301 status-publish last instock product_cat-green-lion-smart-watch-straps-cases product_cat-smart-watch-accessories has-post-thumbnail taxable shipping-taxable product-type-simple" data-id="1301" data-loop="3">
+<div class="product-wrapper">
+<div class="product-element-top wd-quick-shop">
+<a class="product-image-link" href="https://appleasia.lk/product/green-lion-15w-transparent-magnetic-wireless-charger/">
+<img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/04-18-300x300.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/04-18-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/04-18-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/04-18.webp 600w" width="300"/> </a>
+<div class="hover-img">
+<a aria-label="Product image" href="https://appleasia.lk/product/green-lion-15w-transparent-magnetic-wireless-charger/">
+<img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/02-39-300x300.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/02-39-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/02-39-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/02-39.webp 600w" width="300"/> </a>
+</div>
+<div class="wd-buttons wd-pos-r-t">
+<div class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon"><a aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1301" aria-label="Read more about “Green Lion 15W Transparent Magnetic Wireless Charger”" class="button product_type_simple add-to-cart-loop" data-product_id="1301" data-product_sku="" data-quantity="1" data-success_message="" href="https://appleasia.lk/product/green-lion-15w-transparent-magnetic-wireless-charger/" rel="nofollow"><span>Read more</span></a><span class="screen-reader-text" id="woocommerce_loop_add_to_cart_link_describedby_1301">
+</span>
+</div>
+<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+<a class="open-quick-view quick-view-button" data-id="1301" href="https://appleasia.lk/product/green-lion-15w-transparent-magnetic-wireless-charger/" rel="nofollow">Quick view</a>
+</div>
+<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+<a data-added-text="Compare products" data-id="1301" href="https://appleasia.lk/product/green-lion-15w-transparent-magnetic-wireless-charger/" rel="nofollow">
+<span>Compare</span>
+</a>
+</div>
+<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+<a class="" data-added-text="Browse Wishlist" data-key="f97f3db083" data-product-id="1301" href="https://appleasia.lk/wishlist/" rel="nofollow">
+<span>Add to wishlist</span>
+</a>
+</div>
+</div>
+</div>
+<div class="product-element-bottom">
+<h3 class="wd-entities-title"><a href="https://appleasia.lk/product/green-lion-15w-transparent-magnetic-wireless-charger/">Green Lion 15W Transparent Magnetic Wireless Charger</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="wd-carousel-item wd-slide-visible wd-full-visible" style="width: 219px;">
+<div class="wd-product wd-with-labels wd-hover-tiled product-grid-item product type-product post-1506 status-publish first instock product_cat-accessories product_cat-greenlion product_cat-headphone has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple" data-id="1506" data-loop="4">
+<div class="product-wrapper">
+<div class="product-element-top wd-quick-shop">
+<a class="product-image-link" href="https://appleasia.lk/product/green-lion-san-siro-wireless-headphone/">
+<div class="product-labels labels-rounded-sm"><span class="onsale product-label">Sale</span></div><img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/Green-Lion-San-Siro-Smart-Watch-in-Sri-Lanka-300x300.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/Green-Lion-San-Siro-Smart-Watch-in-Sri-Lanka-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/Green-Lion-San-Siro-Smart-Watch-in-Sri-Lanka-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/Green-Lion-San-Siro-Smart-Watch-in-Sri-Lanka.webp 600w" width="300"/> </a>
+<div class="hover-img">
+<a aria-label="Product image" href="https://appleasia.lk/product/green-lion-san-siro-wireless-headphone/">
+<img alt="" class="attachment-medium size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/Green-Lion-San-Siro-Smart-Watch-in-Sri-Lanka1-300x300.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/Green-Lion-San-Siro-Smart-Watch-in-Sri-Lanka1-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/Green-Lion-San-Siro-Smart-Watch-in-Sri-Lanka1-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/Green-Lion-San-Siro-Smart-Watch-in-Sri-Lanka1.webp 600w" width="300"/> </a>
+</div>
+<div class="wd-buttons wd-pos-r-t">
+<div class="wd-add-btn wd-action-btn wd-style-icon wd-add-cart-icon"><a aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1506" aria-label="Add to cart: “Green Lion San Siro Wireless Headphone”" class="button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="1506" data-product_sku="" data-quantity="1" data-success_message="“Green Lion San Siro Wireless Headphone” has been added to your cart" href="?add-to-cart=1506" rel="nofollow"><span>Add to cart</span></a><span class="screen-reader-text" id="woocommerce_loop_add_to_cart_link_describedby_1506">
+</span>
+</div>
+<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+<a class="open-quick-view quick-view-button" data-id="1506" href="https://appleasia.lk/product/green-lion-san-siro-wireless-headphone/" rel="nofollow">Quick view</a>
+</div>
+<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+<a data-added-text="Compare products" data-id="1506" href="https://appleasia.lk/product/green-lion-san-siro-wireless-headphone/" rel="nofollow">
+<span>Compare</span>
+</a>
+</div>
+<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+<a class="" data-added-text="Browse Wishlist" data-key="f97f3db083" data-product-id="1506" href="https://appleasia.lk/wishlist/" rel="nofollow">
+<span>Add to wishlist</span>
+</a>
+</div>
+</div>
+</div>
+<div class="product-element-bottom">
+<h3 class="wd-entities-title"><a href="https://appleasia.lk/product/green-lion-san-siro-wireless-headphone/">Green Lion San Siro Wireless Headphone</a></h3>
+<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>11,900.00</bdi></span></del> <span class="screen-reader-text">Original price was: LKR 11,900.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">LKR </span>9,900.00</bdi></span></ins><span class="screen-reader-text">Current price is: LKR 9,900.00.</span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1">
+<div class="wd-btn-arrow wd-prev wd-disabled wd-lock">
+<div class="wd-arrow-inner"></div>
+</div>
+<div class="wd-btn-arrow wd-next wd-disabled wd-lock">
+<div class="wd-arrow-inner"></div>
+</div>
+</div>
+</div>
+</div><!-- end #carousel-395 -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div><!-- .main-page-wrapper -->
+</div> <!-- end row -->
+</div> <!-- end container -->
+<footer class="footer-container color-scheme-dark">
+<div class="container main-footer">
+<div class="elementor elementor-2586" data-elementor-id="2586" data-elementor-post-type="cms_block" data-elementor-type="wp-post">
+<div class="elementor-element elementor-element-6ed45fb2 wd-section-stretch e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="6ed45fb2" data-settings='{"background_background":"classic"}'>
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-6ccf614b e-con-full e-flex e-con e-child" data-element_type="container" data-id="6ccf614b">
+<div class="elementor-element elementor-element-51aaddd1 e-con-full e-flex e-con e-child" data-element_type="container" data-id="51aaddd1">
+<div class="elementor-element elementor-element-46a3e5dd elementor-widget elementor-widget-image" data-element_type="widget" data-id="46a3e5dd" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-full size-full wp-image-2630" height="100" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Apple-Asia-Wide-Logo-Black.svg" width="595"/> </div>
+</div>
+<div class="elementor-element elementor-element-9d65b6e color-scheme-inherit text-left elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="9d65b6e" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Apple Asia is the largest Apple Products Seller in Sri Lanka and we strive to bring the Apple products you love closer to you.</p> </div>
+</div>
+<div class="elementor-element elementor-element-d91b3ea e-con-full e-flex e-con e-child" data-element_type="container" data-id="d91b3ea">
+<div class="elementor-element elementor-element-6c4bfbe elementor-position-left elementor-mobile-position-left elementor-vertical-align-middle elementor-vertical-align-middle elementor-view-default elementor-widget elementor-widget-icon-box" data-element_type="widget" data-id="6c4bfbe" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span class="elementor-icon elementor-animation-">
+<svg class="injected-svg" data-src="https://cdn.hugeicons.com/icons/mail-02-stroke-standard.svg" fill="none" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M2 6C2 4.89543 2.89543 4 4 4H20C21.1046 4 22 4.89543 22 6V18C22 19.1046 21.1046 20 20 20H4C2.89543 20 2 19.1046 2 18V6Z" stroke="#000000" stroke-linejoin="round" stroke-width="1.5"></path><path d="M6 8L10.9923 10.9122C11.615 11.2754 12.385 11.2754 13.0077 10.9122L18 8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg> </span>
+</div>
+<div class="elementor-icon-box-content">
+<p class="elementor-icon-box-description">
+						info@appleasia.lk					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3455f77 e-con-full e-flex e-con e-child" data-element_type="container" data-id="3455f77">
+<div class="elementor-element elementor-element-52355de elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-element_type="widget" data-id="52355de" data-widget_type="wd_infobox.default">
+<div class="elementor-widget-container">
+<div class="info-box-wrapper">
+<div class="wd-info-box text-left box-icon-align-left box-style-base color-scheme- wd-items-middle">
+<div class="info-box-content">
+<div class="info-box-subtitle subtitle-color-default subtitle-style-default wd-fontsize-xs" data-elementor-setting-key="subtitle">
+							Brand New Apple Devices						</div>
+<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								Francium - Bambalapitiya Branch 						</h4>
+<div class="info-box-inner set-cont-mb-s reset-last-child" data-elementor-setting-key="content"><p><a href="https://goo.gl/maps/qqXvNMfKS11Pko177">No. 515, Lion House, Galle Road, Bambalapitiya, Colombo 04</a><span style="font-size: 14px;text-align: var(--text-align);color: var(--wd-text-color)"></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-259d4c6 e-con-full e-flex e-con e-child" data-element_type="container" data-id="259d4c6">
+<div class="elementor-element elementor-element-1b8bb6ff elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="1b8bb6ff" data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-bd6bbf0">
+<svg class="list-icon wd-icon e-font-icon-svg e-fas-phone-alt" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path></svg>
+<span class="list-content">
+						+94770212294					</span>
+<a aria-label="List item link" class="wd-fill" href="tel:%20+94770212294"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-2821b1a elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="2821b1a" data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-638810c">
+<svg class="list-icon wd-icon e-font-icon-svg e-fas-map-marker-alt" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>
+<span class="list-content">
+						Google Maps					</span>
+<a aria-label="List item link" class="wd-fill" href="https://maps.app.goo.gl/8fpRtsHFVfUMbukTA" target="_blank"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-9eeee45 e-con-full e-flex e-con e-child" data-element_type="container" data-id="9eeee45">
+<div class="elementor-element elementor-element-da5033e elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-element_type="widget" data-id="da5033e" data-widget_type="wd_infobox.default">
+<div class="elementor-widget-container">
+<div class="info-box-wrapper">
+<div class="wd-info-box text-left box-icon-align-left box-style-base color-scheme- wd-items-middle">
+<div class="info-box-content">
+<div class="info-box-subtitle subtitle-color-default subtitle-style-default wd-fontsize-xs" data-elementor-setting-key="subtitle">
+							Used Apple Devices						</div>
+<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								Apple Asia - Wellwatta Branch 						</h4>
+<div class="info-box-inner set-cont-mb-s reset-last-child" data-elementor-setting-key="content"><p><a href="https://goo.gl/maps/nrpC7KZtJUVJub5C9" rel="noopener" target="_blank">No.11B, Fussel's lane, Wellawatt</a><a href="https://goo.gl/maps/nrpC7KZtJUVJub5C9" rel="noopener" style="font-family: Lato, Arial, Helvetica, sans-serif;font-size: 14px;font-style: normal;font-weight: 400" target="_blank">a</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-b93541f e-con-full e-flex e-con e-child" data-element_type="container" data-id="b93541f">
+<div class="elementor-element elementor-element-089528d elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="089528d" data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-638810c">
+<svg class="list-icon wd-icon e-font-icon-svg e-fas-phone-alt" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path></svg>
+<span class="list-content">
+						+94770177773					</span>
+<a aria-label="List item link" class="wd-fill" href="tel:%20+94770177773"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a44ef42 elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="a44ef42" data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-638810c">
+<svg class="list-icon wd-icon e-font-icon-svg e-fas-map-marker-alt" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>
+<span class="list-content">
+						Google Maps					</span>
+<a aria-label="List item link" class="wd-fill" href="https://maps.app.goo.gl/eYMR5gQsHansTQ8h8" target="_blank"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-56aaa714 e-grid-align-left elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-element_type="widget" data-id="56aaa714" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-float elementor-repeater-item-095c8fd" href="https://www.facebook.com/appleasia.lk" target="_blank">
+<span class="elementor-screen-only">Facebook</span>
+<svg class="e-font-icon-svg e-fab-facebook" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-float elementor-repeater-item-bf5eea2" href="https://www.instagram.com/appleasia.lk/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<svg class="e-font-icon-svg e-fab-instagram" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-float elementor-repeater-item-18989da" href="https://wa.me/94771757655" target="_blank">
+<span class="elementor-screen-only">Whatsapp</span>
+<svg class="e-font-icon-svg e-fab-whatsapp" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg> </a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-36366bea e-con-full e-grid e-con e-child" data-element_type="container" data-id="36366bea">
+<div class="elementor-element elementor-element-140d2625 e-con-full e-flex e-con e-child" data-element_type="container" data-id="140d2625">
+<div class="elementor-element elementor-element-6f7e92b0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="6f7e92b0" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">Main Categories</h4> </div>
+</div>
+<div class="elementor-element elementor-element-707c5af3 e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="707c5af3" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-638810c">
+<span class="list-content">
+						iPhone 					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/product-category/iphone/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-34fc874f e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="34fc874f" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-b3d08c2">
+<span class="list-content">
+						Mac					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/product-category/mac/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-607c0c74 e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="607c0c74" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-76df934">
+<span class="list-content">
+						iPad					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/product-category/ipad/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-7890534e e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="7890534e" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-928f137">
+<span class="list-content">
+						Watch 					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/product-category/apple-watch/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-72ebc292 e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="72ebc292" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-3a4efdf">
+<span class="list-content">
+						AirPods					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/product-category/airpods/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a39d51a e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="a39d51a" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-3a4efdf">
+<span class="list-content">
+						Vision					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/product-category/apple-vision-pro/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b3ac448 e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="b3ac448" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-3a4efdf">
+<span class="list-content">
+						Tv &amp; Home					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/product-category/tv-home/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b50caf8 e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="b50caf8" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-3a4efdf">
+<span class="list-content">
+						Accessories
+					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/product-category/accessories/"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-451d84eb e-con-full e-flex e-con e-child" data-element_type="container" data-id="451d84eb">
+<div class="elementor-element elementor-element-3eaa024d elementor-widget elementor-widget-heading" data-element_type="widget" data-id="3eaa024d" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">Quick Navigation</h4> </div>
+</div>
+<div class="elementor-element elementor-element-1ec3e62 e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="1ec3e62" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-638810c">
+<span class="list-content">
+						Home					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-41425926 e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="41425926" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-61f2b50">
+<span class="list-content">
+						Shop					</span>
+<a aria-label="List item link" class="wd-fill" href="https://appleasia.lk/shop/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-6bd4bf68 e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="6bd4bf68" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-cffe5d3">
+<span class="list-content">
+						About					</span>
+<a aria-label="List item link" class="wd-fill" href="#"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-5e1d3da e-transform elementor-widget elementor-widget-wd_list" data-element_type="widget" data-id="5e1d3da" data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":"7","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="wd_list.default">
+<div class="elementor-widget-container">
+<ul class="wd-list color-scheme-dark wd-fontsize-xs wd-list-type-icon wd-list-style-default wd-justify-left">
+<li class="elementor-repeater-item-2a6f6aa">
+<span class="list-content">
+						Contact					</span>
+<a aria-label="List item link" class="wd-fill" href="#"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-42483e4a e-con-full e-flex e-con e-child" data-element_type="container" data-id="42483e4a">
+<div class="elementor-element elementor-element-2a837bb9 elementor-hidden-tablet elementor-hidden-mobile wd-width-100 elementor-widget elementor-widget-wd_instagram" data-element_type="widget" data-id="2a837bb9" data-widget_type="wd_instagram.default">
+<div class="elementor-widget-container">
+<div class="wd-insta data-source-api" data-atts='{"carousel_id":"5000","speed":null,"slides_per_view":"3","slides_per_view_tablet":{"size":""},"slides_per_view_mobile":{"size":""},"wrap":null,"loop":false,"autoplay":null,"autoheight":null,"hide_pagination_control":null,"hide_pagination_control_tablet":"yes","hide_pagination_control_mobile":"yes","dynamic_pagination_control":null,"hide_prev_next_buttons":null,"carousel_arrows_position":null,"hide_scrollbar":null,"hide_scrollbar_tablet":"yes","hide_scrollbar_mobile":"yes","scroll_per_page":null,"dragEndSpeed":200,"center_mode":null,"custom_sizes":false,"sliding_speed":false,"animation":false,"content_animation":false,"post_type":"","slider":"","library":"","css":"","effect":"","spacing":6,"spacing_tablet":"","spacing_mobile":"","carousel_sync":null,"sync_parent_id":null,"sync_child_id":null,"scroll_carousel_init":null,"disable_overflow_carousel":null,"username":"systo","number":{"unit":"px","size":"4","sizes":[]},"size":"","target":"_blank","link":"","design":"grid","spacing_custom":6,"spacing_custom_tablet":"","spacing_custom_mobile":"","rounded":"0","per_row":"2","per_row_tablet":{"unit":"px","size":"2","sizes":[]},"per_row_mobile":{"unit":"px","size":"2","sizes":[]},"hide_mask":"","content":"","data_source":"api","content_color_scheme":"","images":null,"images_size":null,"images_link":null,"images_likes":null,"images_comments":null,"scroll_y":null,"rounding_size":"8","hide_tablet":"hidden-tablet","hide_mobile":"hidden-mobile","extra_width_classes":"wd-width-100","carousel_arrows_position_popover":null,"_title":"","_element_width":"","_element_width_tablet":"","_element_width_mobile":"","_position":"","_element_id":"","_css_classes":"","e_display_conditions":"","_element_cache":"","element_parallax":"","scroll_x":null,"scroll_z":null,"scroll_smoothness":null,"wd_animation":"","wd_animation_duration":null,"wd_animation_delay":null,"motion_fx_motion_fx_scrolling":"","motion_fx_translateY_effect":null,"motion_fx_translateY_direction":null,"motion_fx_translateY_speed":null,"motion_fx_translateY_affectedRange":null,"motion_fx_translateX_effect":null,"motion_fx_translateX_direction":null,"motion_fx_translateX_speed":null,"motion_fx_translateX_affectedRange":null,"motion_fx_opacity_effect":null,"motion_fx_opacity_direction":null,"motion_fx_opacity_level":null,"motion_fx_opacity_range":null,"motion_fx_blur_effect":null,"motion_fx_blur_direction":null,"motion_fx_blur_level":null,"motion_fx_blur_range":null,"motion_fx_rotateZ_effect":null,"motion_fx_rotateZ_direction":null,"motion_fx_rotateZ_speed":null,"motion_fx_rotateZ_affectedRange":null,"motion_fx_scale_effect":null,"motion_fx_scale_direction":null,"motion_fx_scale_speed":null,"motion_fx_scale_range":null,"motion_fx_devices":null,"motion_fx_range":null,"motion_fx_motion_fx_mouse":"","motion_fx_mouseTrack_effect":null,"motion_fx_mouseTrack_direction":null,"motion_fx_mouseTrack_speed":null,"motion_fx_tilt_effect":null,"motion_fx_tilt_direction":null,"motion_fx_tilt_speed":null,"handle_motion_fx_asset_loading":"","sticky":"","sticky_on":null,"sticky_offset":null,"sticky_offset_tablet":null,"sticky_offset_mobile":null,"sticky_effects_offset":null,"sticky_effects_offset_tablet":null,"sticky_effects_offset_mobile":null,"sticky_anchor_link_offset":null,"sticky_anchor_link_offset_tablet":null,"sticky_anchor_link_offset_mobile":null,"sticky_parent":null,"_animation":"","_animation_tablet":"","_animation_mobile":"","animation_duration":null,"_animation_delay":null,"_transform_rotate_popover":"","_transform_rotateZ_effect":null,"_transform_rotateZ_effect_tablet":null,"_transform_rotateZ_effect_mobile":null,"_transform_rotate_3d":null,"_transform_rotateX_effect":null,"_transform_rotateX_effect_tablet":null,"_transform_rotateX_effect_mobile":null,"_transform_rotateY_effect":null,"_transform_rotateY_effect_tablet":null,"_transform_rotateY_effect_mobile":null,"_transform_perspective_effect":null,"_transform_perspective_effect_tablet":null,"_transform_perspective_effect_mobile":null,"_transform_translate_popover":"","_transform_translateX_effect":null,"_transform_translateX_effect_tablet":null,"_transform_translateX_effect_mobile":null,"_transform_translateY_effect":null,"_transform_translateY_effect_tablet":null,"_transform_translateY_effect_mobile":null,"_transform_scale_popover":"","_transform_keep_proportions":"yes","_transform_scale_effect":null,"_transform_scale_effect_tablet":null,"_transform_scale_effect_mobile":null,"_transform_scaleX_effect":null,"_transform_scaleX_effect_tablet":null,"_transform_scaleX_effect_mobile":null,"_transform_scaleY_effect":null,"_transform_scaleY_effect_tablet":null,"_transform_scaleY_effect_mobile":null,"_transform_skew_popover":"","_transform_skewX_effect":null,"_transform_skewX_effect_tablet":null,"_transform_skewX_effect_mobile":null,"_transform_skewY_effect":null,"_transform_skewY_effect_tablet":null,"_transform_skewY_effect_mobile":null,"_transform_flipX_effect":"","_transform_flipY_effect":"","_transform_rotate_popover_hover":"","_transform_rotateZ_effect_hover":null,"_transform_rotateZ_effect_hover_tablet":null,"_transform_rotateZ_effect_hover_mobile":null,"_transform_rotate_3d_hover":null,"_transform_rotateX_effect_hover":null,"_transform_rotateX_effect_hover_tablet":null,"_transform_rotateX_effect_hover_mobile":null,"_transform_rotateY_effect_hover":null,"_transform_rotateY_effect_hover_tablet":null,"_transform_rotateY_effect_hover_mobile":null,"_transform_perspective_effect_hover":null,"_transform_perspective_effect_hover_tablet":null,"_transform_perspective_effect_hover_mobile":null,"_transform_translate_popover_hover":"","_transform_translateX_effect_hover":null,"_transform_translateX_effect_hover_tablet":null,"_transform_translateX_effect_hover_mobile":null,"_transform_translateY_effect_hover":null,"_transform_translateY_effect_hover_tablet":null,"_transform_translateY_effect_hover_mobile":null,"_transform_scale_popover_hover":"","_transform_keep_proportions_hover":"yes","_transform_scale_effect_hover":null,"_transform_scale_effect_hover_tablet":null,"_transform_scale_effect_hover_mobile":null,"_transform_scaleX_effect_hover":null,"_transform_scaleX_effect_hover_tablet":null,"_transform_scaleX_effect_hover_mobile":null,"_transform_scaleY_effect_hover":null,"_transform_scaleY_effect_hover_tablet":null,"_transform_scaleY_effect_hover_mobile":null,"_transform_skew_popover_hover":"","_transform_skewX_effect_hover":null,"_transform_skewX_effect_hover_tablet":null,"_transform_skewX_effect_hover_mobile":null,"_transform_skewY_effect_hover":null,"_transform_skewY_effect_hover_tablet":null,"_transform_skewY_effect_hover_mobile":null,"_transform_flipX_effect_hover":"","_transform_flipY_effect_hover":"","_background_color":null,"_background_color_b":null,"_background_image":null,"_background_video_link":null,"_background_video_start":null,"_background_video_end":null,"_background_play_once":null,"_background_play_on_mobile":null,"_background_privacy_mode":null,"_background_slideshow_gallery":null,"_background_slideshow_loop":null,"_background_slideshow_slide_duration":null,"_background_slideshow_slide_transition":null,"_background_slideshow_transition_duration":null,"_background_slideshow_lazyload":null,"_background_slideshow_ken_burns":null,"_background_slideshow_ken_burns_zoom_direction":null,"_background_hover_color":null,"_background_hover_color_b":null,"_background_hover_image":null,"_background_hover_video_link":null,"_background_hover_video_start":null,"_background_hover_video_end":null,"_background_hover_play_once":null,"_background_hover_play_on_mobile":null,"_background_hover_privacy_mode":null,"_background_hover_slideshow_gallery":null,"_background_hover_slideshow_loop":null,"_background_hover_slideshow_slide_duration":null,"_background_hover_slideshow_slide_transition":null,"_background_hover_slideshow_transition_duration":null,"_background_hover_slideshow_lazyload":null,"_background_hover_slideshow_ken_burns":null,"_background_hover_slideshow_ken_burns_zoom_direction":null,"_mask_switch":"","_mask_notice":null,"hide_desktop":"","_attributes":"","columns":"2","columns_tablet":"2","columns_mobile":"2"}' data-username="systo" id="carousel-279">
+<div class="wd-grid-g" style="--wd-col-lg:2;--wd-col-md:2;--wd-col-sm:2;--wd-gap-lg:6px;">
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3pJ33JXXB/" target="_blank"></a>
+<img alt="" class="attachment- size-" decoding="async" height="1800" loading="lazy" sizes="(max-width: 1440px) 100vw, 1440px" src="https://appleasia.lk/wp-content/uploads/2024/09/470938198_18262512865253270_8747548711038630826_n.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/470938198_18262512865253270_8747548711038630826_n.jpg 1440w, https://appleasia.lk/wp-content/uploads/2024/09/470938198_18262512865253270_8747548711038630826_n-240x300.jpg 240w" width="1440"/>
+</div>
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3pFwxJMQc/" target="_blank"></a>
+<img alt="" class="attachment- size-" decoding="async" height="1800" loading="lazy" sizes="(max-width: 1440px) 100vw, 1440px" src="https://appleasia.lk/wp-content/uploads/2024/09/470924322_18262512817253270_1451334850102407755_n.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/470924322_18262512817253270_1451334850102407755_n.jpg 1440w, https://appleasia.lk/wp-content/uploads/2024/09/470924322_18262512817253270_1451334850102407755_n-240x300.jpg 240w" width="1440"/>
+</div>
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3pBC0JCOb/" target="_blank"></a>
+<img alt="" class="attachment- size-" decoding="async" height="1800" loading="lazy" sizes="(max-width: 1440px) 100vw, 1440px" src="https://appleasia.lk/wp-content/uploads/2024/09/470946229_18262512790253270_6521119645245762334_n.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/470946229_18262512790253270_6521119645245762334_n.jpg 1440w, https://appleasia.lk/wp-content/uploads/2024/09/470946229_18262512790253270_6521119645245762334_n-240x300.jpg 240w" width="1440"/>
+</div>
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3o2y4JD8a/" target="_blank"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-19fd796 elementor-hidden-desktop wd-width-100 elementor-widget elementor-widget-wd_instagram" data-element_type="widget" data-id="19fd796" data-widget_type="wd_instagram.default">
+<div class="elementor-widget-container">
+<div class="wd-insta data-source-api" data-atts='{"carousel_id":"5000","speed":null,"slides_per_view":"3","slides_per_view_tablet":{"size":""},"slides_per_view_mobile":{"size":""},"wrap":null,"loop":false,"autoplay":null,"autoheight":null,"hide_pagination_control":null,"hide_pagination_control_tablet":"yes","hide_pagination_control_mobile":"yes","dynamic_pagination_control":null,"hide_prev_next_buttons":null,"carousel_arrows_position":null,"hide_scrollbar":null,"hide_scrollbar_tablet":"yes","hide_scrollbar_mobile":"yes","scroll_per_page":null,"dragEndSpeed":200,"center_mode":null,"custom_sizes":false,"sliding_speed":false,"animation":false,"content_animation":false,"post_type":"","slider":"","library":"","css":"","effect":"","spacing":6,"spacing_tablet":"","spacing_mobile":"","carousel_sync":null,"sync_parent_id":null,"sync_child_id":null,"scroll_carousel_init":null,"disable_overflow_carousel":null,"username":"systo","number":{"unit":"px","size":"6","sizes":[]},"size":"","target":"_blank","link":"","design":"grid","spacing_custom":6,"spacing_custom_tablet":"","spacing_custom_mobile":"","rounded":"0","per_row":"2","per_row_tablet":{"unit":"px","size":"2","sizes":[]},"per_row_mobile":{"unit":"px","size":"2","sizes":[]},"hide_mask":"","content":"","data_source":"api","content_color_scheme":"","images":null,"images_size":null,"images_link":null,"images_likes":null,"images_comments":null,"scroll_y":null,"rounding_size":"8","hide_desktop":"hidden-desktop","extra_width_classes":"wd-width-100","carousel_arrows_position_popover":null,"_title":"","_element_width":"","_element_width_tablet":"","_element_width_mobile":"","_position":"","_element_id":"","_css_classes":"","e_display_conditions":"","_element_cache":"","element_parallax":"","scroll_x":null,"scroll_z":null,"scroll_smoothness":null,"wd_animation":"","wd_animation_duration":null,"wd_animation_delay":null,"motion_fx_motion_fx_scrolling":"","motion_fx_translateY_effect":null,"motion_fx_translateY_direction":null,"motion_fx_translateY_speed":null,"motion_fx_translateY_affectedRange":null,"motion_fx_translateX_effect":null,"motion_fx_translateX_direction":null,"motion_fx_translateX_speed":null,"motion_fx_translateX_affectedRange":null,"motion_fx_opacity_effect":null,"motion_fx_opacity_direction":null,"motion_fx_opacity_level":null,"motion_fx_opacity_range":null,"motion_fx_blur_effect":null,"motion_fx_blur_direction":null,"motion_fx_blur_level":null,"motion_fx_blur_range":null,"motion_fx_rotateZ_effect":null,"motion_fx_rotateZ_direction":null,"motion_fx_rotateZ_speed":null,"motion_fx_rotateZ_affectedRange":null,"motion_fx_scale_effect":null,"motion_fx_scale_direction":null,"motion_fx_scale_speed":null,"motion_fx_scale_range":null,"motion_fx_devices":null,"motion_fx_range":null,"motion_fx_motion_fx_mouse":"","motion_fx_mouseTrack_effect":null,"motion_fx_mouseTrack_direction":null,"motion_fx_mouseTrack_speed":null,"motion_fx_tilt_effect":null,"motion_fx_tilt_direction":null,"motion_fx_tilt_speed":null,"handle_motion_fx_asset_loading":"","sticky":"","sticky_on":null,"sticky_offset":null,"sticky_offset_tablet":null,"sticky_offset_mobile":null,"sticky_effects_offset":null,"sticky_effects_offset_tablet":null,"sticky_effects_offset_mobile":null,"sticky_anchor_link_offset":null,"sticky_anchor_link_offset_tablet":null,"sticky_anchor_link_offset_mobile":null,"sticky_parent":null,"_animation":"","_animation_tablet":"","_animation_mobile":"","animation_duration":null,"_animation_delay":null,"_transform_rotate_popover":"","_transform_rotateZ_effect":null,"_transform_rotateZ_effect_tablet":null,"_transform_rotateZ_effect_mobile":null,"_transform_rotate_3d":null,"_transform_rotateX_effect":null,"_transform_rotateX_effect_tablet":null,"_transform_rotateX_effect_mobile":null,"_transform_rotateY_effect":null,"_transform_rotateY_effect_tablet":null,"_transform_rotateY_effect_mobile":null,"_transform_perspective_effect":null,"_transform_perspective_effect_tablet":null,"_transform_perspective_effect_mobile":null,"_transform_translate_popover":"","_transform_translateX_effect":null,"_transform_translateX_effect_tablet":null,"_transform_translateX_effect_mobile":null,"_transform_translateY_effect":null,"_transform_translateY_effect_tablet":null,"_transform_translateY_effect_mobile":null,"_transform_scale_popover":"","_transform_keep_proportions":"yes","_transform_scale_effect":null,"_transform_scale_effect_tablet":null,"_transform_scale_effect_mobile":null,"_transform_scaleX_effect":null,"_transform_scaleX_effect_tablet":null,"_transform_scaleX_effect_mobile":null,"_transform_scaleY_effect":null,"_transform_scaleY_effect_tablet":null,"_transform_scaleY_effect_mobile":null,"_transform_skew_popover":"","_transform_skewX_effect":null,"_transform_skewX_effect_tablet":null,"_transform_skewX_effect_mobile":null,"_transform_skewY_effect":null,"_transform_skewY_effect_tablet":null,"_transform_skewY_effect_mobile":null,"_transform_flipX_effect":"","_transform_flipY_effect":"","_transform_rotate_popover_hover":"","_transform_rotateZ_effect_hover":null,"_transform_rotateZ_effect_hover_tablet":null,"_transform_rotateZ_effect_hover_mobile":null,"_transform_rotate_3d_hover":null,"_transform_rotateX_effect_hover":null,"_transform_rotateX_effect_hover_tablet":null,"_transform_rotateX_effect_hover_mobile":null,"_transform_rotateY_effect_hover":null,"_transform_rotateY_effect_hover_tablet":null,"_transform_rotateY_effect_hover_mobile":null,"_transform_perspective_effect_hover":null,"_transform_perspective_effect_hover_tablet":null,"_transform_perspective_effect_hover_mobile":null,"_transform_translate_popover_hover":"","_transform_translateX_effect_hover":null,"_transform_translateX_effect_hover_tablet":null,"_transform_translateX_effect_hover_mobile":null,"_transform_translateY_effect_hover":null,"_transform_translateY_effect_hover_tablet":null,"_transform_translateY_effect_hover_mobile":null,"_transform_scale_popover_hover":"","_transform_keep_proportions_hover":"yes","_transform_scale_effect_hover":null,"_transform_scale_effect_hover_tablet":null,"_transform_scale_effect_hover_mobile":null,"_transform_scaleX_effect_hover":null,"_transform_scaleX_effect_hover_tablet":null,"_transform_scaleX_effect_hover_mobile":null,"_transform_scaleY_effect_hover":null,"_transform_scaleY_effect_hover_tablet":null,"_transform_scaleY_effect_hover_mobile":null,"_transform_skew_popover_hover":"","_transform_skewX_effect_hover":null,"_transform_skewX_effect_hover_tablet":null,"_transform_skewX_effect_hover_mobile":null,"_transform_skewY_effect_hover":null,"_transform_skewY_effect_hover_tablet":null,"_transform_skewY_effect_hover_mobile":null,"_transform_flipX_effect_hover":"","_transform_flipY_effect_hover":"","_background_color":null,"_background_color_b":null,"_background_image":null,"_background_video_link":null,"_background_video_start":null,"_background_video_end":null,"_background_play_once":null,"_background_play_on_mobile":null,"_background_privacy_mode":null,"_background_slideshow_gallery":null,"_background_slideshow_loop":null,"_background_slideshow_slide_duration":null,"_background_slideshow_slide_transition":null,"_background_slideshow_transition_duration":null,"_background_slideshow_lazyload":null,"_background_slideshow_ken_burns":null,"_background_slideshow_ken_burns_zoom_direction":null,"_background_hover_color":null,"_background_hover_color_b":null,"_background_hover_image":null,"_background_hover_video_link":null,"_background_hover_video_start":null,"_background_hover_video_end":null,"_background_hover_play_once":null,"_background_hover_play_on_mobile":null,"_background_hover_privacy_mode":null,"_background_hover_slideshow_gallery":null,"_background_hover_slideshow_loop":null,"_background_hover_slideshow_slide_duration":null,"_background_hover_slideshow_slide_transition":null,"_background_hover_slideshow_transition_duration":null,"_background_hover_slideshow_lazyload":null,"_background_hover_slideshow_ken_burns":null,"_background_hover_slideshow_ken_burns_zoom_direction":null,"_mask_switch":"","_mask_notice":null,"hide_tablet":"","hide_mobile":"","_attributes":"","columns":"2","columns_tablet":"2","columns_mobile":"2"}' data-username="systo" id="carousel-537">
+<div class="wd-grid-g" style="--wd-col-lg:2;--wd-col-md:2;--wd-col-sm:2;--wd-gap-lg:6px;">
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3pJ33JXXB/" target="_blank"></a>
+<img alt="" class="attachment- size-" decoding="async" height="1800" loading="lazy" sizes="(max-width: 1440px) 100vw, 1440px" src="https://appleasia.lk/wp-content/uploads/2024/09/470938198_18262512865253270_8747548711038630826_n.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/470938198_18262512865253270_8747548711038630826_n.jpg 1440w, https://appleasia.lk/wp-content/uploads/2024/09/470938198_18262512865253270_8747548711038630826_n-240x300.jpg 240w" width="1440"/>
+</div>
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3pFwxJMQc/" target="_blank"></a>
+<img alt="" class="attachment- size-" decoding="async" height="1800" loading="lazy" sizes="(max-width: 1440px) 100vw, 1440px" src="https://appleasia.lk/wp-content/uploads/2024/09/470924322_18262512817253270_1451334850102407755_n.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/470924322_18262512817253270_1451334850102407755_n.jpg 1440w, https://appleasia.lk/wp-content/uploads/2024/09/470924322_18262512817253270_1451334850102407755_n-240x300.jpg 240w" width="1440"/>
+</div>
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3pBC0JCOb/" target="_blank"></a>
+<img alt="" class="attachment- size-" decoding="async" height="1800" loading="lazy" sizes="(max-width: 1440px) 100vw, 1440px" src="https://appleasia.lk/wp-content/uploads/2024/09/470946229_18262512790253270_6521119645245762334_n.jpg" srcset="https://appleasia.lk/wp-content/uploads/2024/09/470946229_18262512790253270_6521119645245762334_n.jpg 1440w, https://appleasia.lk/wp-content/uploads/2024/09/470946229_18262512790253270_6521119645245762334_n-240x300.jpg 240w" width="1440"/>
+</div>
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3o2y4JD8a/" target="_blank"></a>
+</div>
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3oljFpD5X/" target="_blank"></a>
+</div>
+<div class="wd-insta-item wd-col">
+<a aria-label="Instagram picture" href="//www.instagram.com/p/DD3oel-Jf8_/" target="_blank"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d532b30 e-con-full e-flex e-con e-child" data-element_type="container" data-id="1d532b30">
+<div class="elementor-element elementor-element-3d0ee3d0 e-con-full e-flex e-con e-child" data-element_type="container" data-id="3d0ee3d0">
+<div class="elementor-element elementor-element-7f034dab text-center color-scheme-dark e-transform elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="7f034dab" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":"-5","sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><a href="https://appleasia.lk/privacy-policy/">Privacy policy</a></p> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-7183418f e-con-full e-flex e-con e-child" data-element_type="container" data-id="7183418f">
+<div class="elementor-element elementor-element-2a6ad0a1 text-center color-scheme-dark e-transform elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="2a6ad0a1" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":"-5","sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><a href="https://appleasia.lk/return-refund-policy/">Return / Refund</a></p> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-114d4396 e-con-full e-flex e-con e-child" data-element_type="container" data-id="114d4396">
+<div class="elementor-element elementor-element-5fe2e5c0 text-center color-scheme-dark e-transform elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="5fe2e5c0" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":"-5","sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><a href="https://appleasia.lk/terms-condition/">Terms &amp; Conditions</a></p> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-57010eac e-con-full e-flex e-con e-child" data-element_type="container" data-id="57010eac">
+<div class="elementor-element elementor-element-357ec3d6 text-center color-scheme-dark e-transform elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="357ec3d6" data-settings='{"_transform_translateY_effect_hover":{"unit":"px","size":"-5","sizes":[]},"_transform_translateX_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><a href="https://appleasia.lk/sitemap">Our Sitemap</a></p> </div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-24eeeb97 e-con-full e-flex e-con e-child" data-element_type="container" data-id="24eeeb97">
+<div class="elementor-element elementor-element-2703629b e-con-full e-flex e-con e-child" data-element_type="container" data-id="2703629b">
+<div class="elementor-element elementor-element-18c91b17 elementor-widget elementor-widget-html" data-element_type="widget" data-id="18c91b17" data-widget_type="html.default">
+<div class="elementor-widget-container">
+<div style="text-align: center;color: black">
+<small>
+<a href="https://www.systo.lk" style="color: black;font-weight: bold" target="_blank"><strong>APPLE ASIA</strong></a> © 2024 CREATED BY 
+    <a href="https://www.systo.lk" style="color: black;font-weight: bold" target="_blank"><strong>TEAM APPLE ASIA</strong></a>
+</small>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-60217ff8 e-con-full e-flex e-con e-child" data-element_type="container" data-id="60217ff8">
+<div class="elementor-element elementor-element-2753cfd0 elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-element_type="widget" data-id="2753cfd0" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-full size-full wp-image-3170" height="15" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Payment-Logo-7-1.svg" width="113"/> </div>
+</div>
+<div class="elementor-element elementor-element-7540a01 elementor-widget__width-initial elementor-widget elementor-widget-image" data-element_type="widget" data-id="7540a01" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-full size-full wp-image-3171" height="512" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/american-express-svgrepo-com.svg" width="512"/> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div> <!-- end wrapper -->
+<div class="wd-close-side wd-fill"></div>
+<a aria-label="Scroll to top button" class="scrollToTop" href="#"></a>
+<div class="mobile-nav wd-side-hidden wd-side-hidden-nav wd-left wd-opener-item color-scheme-light"> <ul class="wd-nav wd-nav-mob-tab wd-style-underline wd-swap">
+<li class="mobile-tab-title mobile-pages-title" data-menu="pages">
+<a href="#" rel="nofollow noopener">
+<span class="nav-link-text">
+								Account							</span>
+</a>
+</li>
+<li class="mobile-tab-title mobile-categories-title wd-active" data-menu="categories">
+<a href="#" rel="nofollow noopener">
+<span class="nav-link-text">
+								Categories							</span>
+</a>
+</li>
+</ul>
+<ul class="mobile-categories-menu menu wd-nav wd-nav-mobile wd-html-block-on wd-layout-drilldown wd-drilldown-slide wd-active" id="menu-mobile-category-systo-update"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44171 item-level-0" id="menu-item-44171"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">Home</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product-ancestor menu-item-has-children menu-item-44863 item-level-0" id="menu-item-44863"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/iphone/"><span class="nav-link-text">iPhone</span></a>
+<ul class="wd-sub-menu">
+<li class="wd-drilldown-back">
+<span class="wd-nav-opener"></span>
+<a href="#">
+			Back		</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44864 item-level-1" id="menu-item-44864"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-16-pro-max/">iPhone 16 Pro Max</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44865 item-level-1" id="menu-item-44865"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-16-pro/">iPhone 16 Pro</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44866 item-level-1" id="menu-item-44866"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-16-plus/">iPhone 16 Plus</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44867 item-level-1" id="menu-item-44867"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-16-series/">iPhone 16</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44876 item-level-1" id="menu-item-44876"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-15-pro-max/">iPhone 15 Pro Max</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44877 item-level-1" id="menu-item-44877"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-15-pro/">iPhone 15 Pro</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44875 item-level-1" id="menu-item-44875"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-15-plus/">iPhone 15 Plus</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44868 item-level-1" id="menu-item-44868"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-15/">iPhone 15</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44869 item-level-1" id="menu-item-44869"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-14/">iPhone 14</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44870 item-level-1" id="menu-item-44870"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-13/">iPhone 13</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-44871 item-level-1" id="menu-item-44871"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-11/">iPhone 11</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-45154 item-level-1" id="menu-item-45154"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/iphone/iphone-se-3/">iPhone SE</a></li>
+</ul>
+<span class="wd-nav-opener"></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44175 item-level-0" id="menu-item-44175"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">Watch</span></a>
+<ul class="wd-sub-menu">
+<li class="wd-drilldown-back">
+<span class="wd-nav-opener"></span>
+<a href="#">
+			Back		</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44582 item-level-1" id="menu-item-44582"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/apple-watch/apple-watch-ultra-2/">Apple Watch Ultra 2</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44872 item-level-1" id="menu-item-44872"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/apple-watch/apple-watch-ultra/">Apple Watch Ultra</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44581 item-level-1" id="menu-item-44581"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/apple-watch/apple-watch-series-10/">Apple Watch Series 10</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44874 item-level-1" id="menu-item-44874"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/apple-watch/apple-watch-series-9/">Apple Watch Series 9</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44873 item-level-1" id="menu-item-44873"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/apple-watch/apple-watch-se/">Apple Watch SE</a></li>
+</ul>
+<span class="wd-nav-opener"></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44173 item-level-0" id="menu-item-44173"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">Mac</span></a>
+<ul class="wd-sub-menu">
+<li class="wd-drilldown-back">
+<span class="wd-nav-opener"></span>
+<a href="#">
+			Back		</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44568 item-level-1" id="menu-item-44568"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/mac/macbook-pro/">MacBook Pro</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44567 item-level-1" id="menu-item-44567"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/mac/macbook-air/">MacBook Air</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44564 item-level-1" id="menu-item-44564"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/mac/mac-mini/">Mac mini</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44563 item-level-1" id="menu-item-44563"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/mac/imac/">iMac</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44566 item-level-1" id="menu-item-44566"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/mac/mac-studio/">Mac Studio</a></li>
+</ul>
+<span class="wd-nav-opener"></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44174 item-level-0" id="menu-item-44174"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">iPad</span></a>
+<ul class="wd-sub-menu">
+<li class="wd-drilldown-back">
+<span class="wd-nav-opener"></span>
+<a href="#">
+			Back		</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44571 item-level-1" id="menu-item-44571"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/ipad/ipad-ipad/">iPad</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44572 item-level-1" id="menu-item-44572"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/ipad/ipad-air/">iPad Air</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44574 item-level-1" id="menu-item-44574"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/ipad/ipad-pro/">iPad Pro</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44573 item-level-1" id="menu-item-44573"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/ipad/ipad-mini/">iPad mini</a></li>
+</ul>
+<span class="wd-nav-opener"></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44176 item-level-0" id="menu-item-44176"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">AirPods</span></a>
+<ul class="wd-sub-menu">
+<li class="wd-drilldown-back">
+<span class="wd-nav-opener"></span>
+<a href="#">
+			Back		</a>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45162 item-level-1" id="menu-item-45162"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/airpods/">AirPods</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45163 item-level-1" id="menu-item-45163"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/airpods/">AirPods Pro</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44593 item-level-1" id="menu-item-44593"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/airpods/airpods-max/">AirPods Max</a></li>
+</ul>
+<span class="wd-nav-opener"></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44177 item-level-0" id="menu-item-44177"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">Vision</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44894 item-level-0" id="menu-item-44894"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/airtag/"><span class="nav-link-text">AirTag</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44178 item-level-0" id="menu-item-44178"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">Apple Tv</span></a>
+<ul class="wd-sub-menu">
+<li class="wd-drilldown-back">
+<span class="wd-nav-opener"></span>
+<a href="#">
+			Back		</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44595 item-level-1" id="menu-item-44595"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/tv-home/apple-tv-4k/">Apple TV 4K</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44596 item-level-1" id="menu-item-44596"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/tv-home/apple-tv/">Apple TV+</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44598 item-level-1" id="menu-item-44598"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/tv-home/homepod-mini/">HomePod mini</a></li>
+</ul>
+<span class="wd-nav-opener"></span></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44597 item-level-0" id="menu-item-44597"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/tv-home/homepod-tv-home/"><span class="nav-link-text">HomePod</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44179 item-level-0" id="menu-item-44179"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/accessories/"><span class="nav-link-text">Accessories</span></a>
+<ul class="wd-sub-menu">
+<li class="wd-drilldown-back">
+<span class="wd-nav-opener"></span>
+<a href="#">
+			Back		</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44893 item-level-1" id="menu-item-44893"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/ipad/apple-pencil-ipad/">Apple Pencil</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44889 item-level-1" id="menu-item-44889"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/accessories/apple-watch-accessories/">Apple Watch Accessories</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44890 item-level-1" id="menu-item-44890"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/accessories/ipad-accessories/">iPad Accessories</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44891 item-level-1" id="menu-item-44891"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/accessories/mac-accessories/">Mac Accessories</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44899 item-level-1" id="menu-item-44899"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/smart-watches/">Smart Watches</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44896 item-level-1" id="menu-item-44896"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/headphone/marshall-headphone/">Marshall</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44895 item-level-1" id="menu-item-44895"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/headphone/jbl-headphone/">JBL</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44897 item-level-1" id="menu-item-44897"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/accessories/smart-watch-accessories/smart-watch-straps-cases/green-lion-smart-watch-straps-cases/">Green Lion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44898 item-level-1" id="menu-item-44898"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/headphone/marshall-headphone/">Marshall</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-44892 item-level-1" id="menu-item-44892"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/accessories/other-accessories/">Other Accessories</a></li>
+</ul>
+<span class="wd-nav-opener"></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48654 item-level-0" id="menu-item-48654"><a class="woodmart-nav-link" href="https://appleasia.lk/product-category/iphone-pre-owned-used/"><span class="nav-link-text">Pre Owned iPhones</span></a></li>
+</ul>  <ul class="mobile-pages-menu menu wd-nav wd-nav-mobile wd-html-block-on wd-layout-drilldown wd-drilldown-slide" id="menu-mobile-menu-systo-update"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-44793 item-level-0" id="menu-item-44793"><a class="woodmart-nav-link" href="https://appleasia.lk/"><span class="nav-link-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-44794 item-level-0" id="menu-item-44794"><a class="woodmart-nav-link" href="https://appleasia.lk/shop/"><span class="nav-link-text">Shop</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44795 item-level-0" id="menu-item-44795"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">About</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44796 item-level-0" id="menu-item-44796"><a class="woodmart-nav-link" href="#"><span class="nav-link-text">Contact us</span></a></li>
+<li class="menu-item menu-item-wishlist wd-with-icon item-level-0"> <a class="woodmart-nav-link" href="https://appleasia.lk/wishlist/">
+<span class="nav-link-text">Wishlist</span>
+</a>
+</li><li class="menu-item menu-item-compare wd-with-icon item-level-0"><a class="woodmart-nav-link" href="https://appleasia.lk/product/iphone-12-2/">Compare</a></li><li class="menu-item login-side-opener menu-item-account wd-with-icon item-level-0"><a class="woodmart-nav-link" href="https://appleasia.lk/my-account/">Login / Register</a></li></ul>
+</div><!--END MOBILE-NAV--> <div class="cart-widget-side wd-side-hidden color-scheme-light wd-right">
+<div class="wd-heading">
+<span class="title">Shopping cart</span>
+<div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon">
+<a href="#" rel="nofollow">Close</a>
+</div>
+</div>
+<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div> </div>
+<div class="login-form-side wd-side-hidden woocommerce color-scheme-light wd-right">
+<div class="wd-heading">
+<span class="title">Sign in</span>
+<div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon">
+<a href="#" rel="nofollow">Close</a>
+</div>
+</div>
+<div class="woocommerce-notices-wrapper"></div>
+<form action="https://appleasia.lk/my-account/" class="login woocommerce-form woocommerce-form-login hidden-form" method="post" style="display:none;">
+<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide form-row-username">
+<label for="username">Username or email address <span aria-hidden="true" class="required">*</span><span class="screen-reader-text">Required</span></label>
+<input class="woocommerce-Input woocommerce-Input--text input-text" id="username" name="username" type="text" value=""/> </p>
+<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide form-row-password">
+<label for="password">Password <span aria-hidden="true" class="required">*</span><span class="screen-reader-text">Required</span></label>
+<span class="password-input"><input autocomplete="current-password" class="woocommerce-Input woocommerce-Input--text input-text" id="password" name="password" type="password"/><span class="show-password-input"></span></span>
+</p>
+<p class="form-row">
+<input id="woocommerce-login-nonce" name="woocommerce-login-nonce" type="hidden" value="595ec5f9a0"/><input name="_wp_http_referer" type="hidden" value="/product/iphone-12-2/"/> <input name="redirect" type="hidden" value="https://appleasia.lk/product/iphone-12-2/"/>
+<button class="button woocommerce-button woocommerce-form-login__submit" name="login" type="submit" value="Log in">Log in</button>
+</p>
+<p class="login-form-footer">
+<a class="woocommerce-LostPassword lost_password" href="https://appleasia.lk/my-account/lost-password/">Lost your password?</a>
+<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+<input aria-label="Remember me" class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" title="Remember me" type="checkbox" value="forever"/> <span>Remember me</span>
+</label>
+</p>
+ <p class="title wd-login-divider"><span>Or login with</span></p>
+<div class="wd-social-login">
+<a class="login-goo-link btn" href="https://appleasia.lk/my-account/?social_auth=google">
+								Google							</a>
+</div>
+</form>
+<div class="create-account-question">
+<p>No account yet?</p>
+<a class="btn btn-style-link btn-color-primary create-account-button" href="https://appleasia.lk/my-account/?action=register">Create an Account</a>
+</div>
+</div>
+<div class="wd-sticky-btn">
+<div class="wd-sticky-btn-container container">
+<div class="wd-sticky-btn-content">
+<div class="wd-sticky-btn-thumbnail">
+<img alt="" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://appleasia.lk/wp-content/uploads/2024/09/13-5-300x300.webp" srcset="https://appleasia.lk/wp-content/uploads/2024/09/13-5-300x300.webp 300w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-1024x1024.webp 1024w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-150x150.webp 150w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-768x768.webp 768w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-1536x1536.webp 1536w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-2048x2048.webp 2048w, https://appleasia.lk/wp-content/uploads/2024/09/13-5-600x600.webp 600w" width="300"/> </div>
+<div class="wd-sticky-btn-info">
+<h4 class="wd-entities-title">iPhone 12</h4>
+</div>
+</div>
+<div class="wd-sticky-btn-cart">
+<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">LKR </span>169,900.00</span></del> <span class="screen-reader-text">Original price was: LKR 169,900.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">LKR </span>154,900.00</span></ins><span class="screen-reader-text">Current price is: LKR 154,900.00.</span></span>
+<a class="wd-sticky-add-to-cart button alt" href="https://appleasia.lk/product/iphone-12-2/">
+								Select options							</a>
+<button class="wd-buy-now-btn button alt" id="wd-add-to-cart" name="wd-add-to-cart" type="submit" value="45881">
+				Buy now			</button>
+<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon wd-tooltip">
+<a data-added-text="Compare products" data-id="45881" href="https://appleasia.lk/product/iphone-12-2/" rel="nofollow">
+<span>Compare</span>
+</a>
+</div>
+<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon wd-tooltip">
+<a class="" data-added-text="Browse Wishlist" data-key="f97f3db083" data-product-id="45881" href="https://appleasia.lk/wishlist/" rel="nofollow">
+<span>Add to wishlist</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="wd-search-full-screen wd-fill color-scheme-light">
+<span class="wd-close-search wd-action-btn wd-style-icon wd-cross-icon"><a aria-label="Close search form" href="#" rel="nofollow"></a></span>
+<form action="https://appleasia.lk/" class="searchform wd-cat-style-bordered woodmart-ajax-search" data-count="20" data-post_type="product" data-price="1" data-sku="0" data-symbols_count="3" data-thumbnail="1" method="get" role="search">
+<input aria-label="Search" class="s" name="s" placeholder="Search for products" required="" title="Search for products" type="text" value=""/>
+<input name="post_type" type="hidden" value="product"/>
+<button class="searchsubmit" type="submit">
+<span>
+							Search						</span>
+</button>
+</form>
+<div class="wd-search-loader wd-fill"></div>
+<div class="search-info-text"><span>Start typing to see products you are looking for.</span></div>
+<div class="search-results-wrapper">
+<div class="wd-dropdown-results wd-scroll color-scheme-light">
+<div class="wd-scroll-content"></div>
+</div>
+</div>
+</div>
+<div class="wd-toolbar wd-toolbar-label-show">
+<div class="wd-toolbar-link wd-tools-element wd-toolbar-item wd-tools-custom-icon">
+<a href="http://appleasia.lk/shop">
+<span class="wd-toolbar-icon wd-tools-icon wd-icon wd-custom-icon">
+<img alt="" class="attachment-thumbnail size-thumbnail" decoding="async" height="150" loading="lazy" src="https://appleasia.lk/wp-content/uploads/2024/09/Vector.svg" width="150"/> </span>
+<span class="wd-toolbar-label">
+						Shop					</span>
+</a>
+</div>
+<div class="wd-header-wishlist wd-tools-element wd-design-5" title="My wishlist">
+<a href="https://appleasia.lk/wishlist/">
+<span class="wd-tools-icon">
+<span class="wd-tools-count">0</span>
+</span>
+<span class="wd-toolbar-label">
+					Wishlist				</span>
+</a>
+</div>
+<div class="wd-header-cart wd-tools-element wd-design-5 cart-widget-opener" title="My cart">
+<a href="https://appleasia.lk/cart/">
+<span class="wd-tools-icon wd-icon-alt">
+<span class="wd-cart-number wd-tools-count">0 <span>items</span></span>
+</span>
+<span class="wd-toolbar-label">
+					Cart				</span>
+</a>
+</div>
+<div class="wd-header-my-account wd-tools-element wd-style-icon login-side-opener">
+<a href="https://appleasia.lk/my-account/">
+<span class="wd-tools-icon"></span>
+<span class="wd-toolbar-label">
+					My account				</span>
+</a>
+</div>
+</div>
+<span class="elementor-screen-only" id="elementor-device-mode"></span>
+<svg class="e-font-icon-svg-symbols" style="display: none;"></svg>
+<img alt="" height="5" id="wpstats" src="https://pixel.wp.com/g.gif?v=ext&amp;blog=225900333&amp;post=45881&amp;tz=5.5&amp;srv=appleasia.lk&amp;j=1%3A14.0&amp;host=appleasia.lk&amp;ref=&amp;fcp=2338&amp;rand=0.16005593106862026" width="6"/>
+<div class="widget_shopping_cart_live_region screen-reader-text" role="status"></div></body></html>
