@@ -14,11 +14,8 @@ def submit():
     print(f"User Input: {user_input}")
     
     for r in get_search_results(f'{user_input} prices',1):
-        print("--------------------------------------")
-        print()
         print(fetch_url_content(r))
-        print()
-        print("--------------------------------------")
+
 
 
     return f"You entered: {user_input}"
