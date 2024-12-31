@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Buyer Bot</title>
+    <link rel="stylesheet" href="../static/style.css">
+    <script src="../static/script.js"></script>
+</head>
+<body>
+
+    <div id="topnav">
+        <a class="active" href="index.html">Home</a>
+        <a href="about.html">About</a>
+      </div>
+
+      <div class="container mt-5">
+        <h1 class="text-center">AI Buyer Bot</h1>
+        <form class="d-flex justify-content-center align-items-center">
+            <label for="userInput">Enter your query:</label>
+            <div class="input-group mb-3 custom-input-group">
+            <input 
+                type="text" 
+                id="userInput" 
+                placeholder="Enter buying queries..." 
+                aria-label="User Input"
+                class="form-contuol custom-input"
+            >
+            <button class="btn btn-primary custom-button" onclick="sendRequest()">Submit</button>
+        </div>
+        </form>
+        <p id="response" class="text-center mt-3"></p>
+    </div>
+    
+    
+
+    <script>
+        // Listen for Enter key on the input field
+        document.getElementById('userInput').addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                sendRequest();
+            }
+        });
+    </script>
+
+<footer class="container mt-5 ">
+    <p>&copy; 2024 AI Buyer Bot</p>
+</footer>
+
+</body>
+</html>
+
+
