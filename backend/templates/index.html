@@ -3,10 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flask App</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <title>AI Buyer Bot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+    <script src="{{ url_for('static', filename='script.js')}}"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 </head>
 <body>
-    web app
+
+    <div id="topnav">
+        <a class="active" href="/">Home</a>
+        <a href="/about">About</a>      
+    </div>
+
+    <div class="container mt-5">
+        <h1 class="text-center">DealScout</h1>
+        <form onsubmit="return false;" class="d-flex justify-content-center align-items-center">
+            <label for="userInput">Enter your query:</label>
+            <div class="input-group mb-3 custom-input-group">
+                <input 
+                    type="text" 
+                    id="userInput" 
+                    placeholder="Enter buying queries..." 
+                    aria-label="User Input"
+                    class="form-contuol custom-input"
+                >
+                <button class="btn btn-primary custom-button" onclick="sendRequest()">Submit</button>
+            </div>
+        </form>
+        <!-- <hr style="margin: 20px; background: #cccccca1;"> -->
+        <div id="response" class="text-center mt-3">
+            <!-- <div class="loader"></div> -->
+        </div>
+    </div>
+    
+    
+
+    <!-- <script>
+        // Listen for Enter key on the input field
+        document.getElementById('userInput').addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                sendRequest();
+            }
+        });
+    </script> -->
+
+    <footer class="footer mt-5 ">
+        <p>&copy; 2024 AI Buyer Bot</p>
+    </footer>
+
 </body>
 </html>
+
+
